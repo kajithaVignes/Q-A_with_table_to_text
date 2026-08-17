@@ -49,6 +49,3 @@ Les scripts de generation de modeles peuvent necessiter un GPU et plusieurs giga
 
 Le projet utilise WikiTableQuestions, decrit dans `WikiTableQuestions-1.0.2-compact/WikiTableQuestions/README.md`. Les donnees, caches de modeles, predictions et sorties intermediaires ne sont pas inclus dans ce depot afin de garder le depot leger et de respecter les conditions de redistribution du dataset.
 
-## Securite
-
-Ne committe jamais de token Hugging Face, cle API ou fichier `.env`. Les scripts lisent `HF_TOKEN` quand une authentification explicite est necessaire. Si un token a deja ete publie, il doit etre revoque puis remplace.
