@@ -1,0 +1,11 @@
+evaluate
+huggingface_hub
+jupyter
+matplotlib
+numpy
+pandas
+seaborn
+torch
+tqdm
+transformers
+wordcloud

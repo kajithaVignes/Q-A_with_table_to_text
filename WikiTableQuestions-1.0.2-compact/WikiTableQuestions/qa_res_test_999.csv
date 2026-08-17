@@ -1,0 +1,4312 @@
+id,pred_999,F1_stat_score_pred_999,EM_stat_score_pred_999
+nu-0,No context.,0.0,0.0
+nu-1,No context.,0.0,0.0
+nu-2,No context.,0.0,0.0
+nu-3,No context.,0.0,0.0
+nu-4,No context.,0.0,0.0
+nu-5,.,0.0,0.0
+nu-6,No context.,0.0,0.0
+nu-7,No context.,0.0,0.0
+nu-8,.,0.0,0.0
+nu-9,No context.,0.0,0.0
+nu-10,No context.,0.0,0.0
+nu-11,No context.,0.0,0.0
+nu-12,No context.,0.0,0.0
+nu-13,No context.,0.0,0.0
+nu-14,No context.,0.0,0.0
+nu-15,No context.,0.0,0.0
+nu-16,No context.,0.0,0.0
+nu-17,.,0.0,0.0
+nu-18,No context.,0.0,0.0
+nu-19,No context.,0.0,0.0
+nu-20,No context.,0.0,0.0
+nu-21,.,0.0,0.0
+nu-22,.,0.0,0.0
+nu-23,No context.,0.0,0.0
+nu-24,.,0.0,0.0
+nu-25,No context.,0.0,0.0
+nu-26,No context.,0.0,0.0
+nu-27,No context.,0.0,0.0
+nu-28,.,0.0,0.0
+nu-29,No context.,0.0,0.0
+nu-30,No context.,0.0,0.0
+nu-31,No context.,0.0,0.0
+nu-32,No context.,0.0,0.0
+nu-33,No context.,0.0,0.0
+nu-34,No context.,0.0,0.0
+nu-35,No context.,0.0,0.0
+nu-36,No context.,0.0,0.0
+nu-37,No context.,0.0,0.0
+nu-38,No context.,0.0,0.0
+nu-39,No context.,0.0,0.0
+nu-40,No context.,0.0,0.0
+nu-41,.,0.0,0.0
+nu-42,No context.,0.0,0.0
+nu-43,No context.,0.0,0.0
+nu-44,.,0.0,0.0
+nu-45,No context.,0.0,0.0
+nu-46,No context.,0.0,0.0
+nu-47,No context.,0.0,0.0
+nu-48,No context.,0.0,0.0
+nu-49,No context.,0.0,0.0
+nu-50,No context.,0.0,0.0
+nu-51,No context.,0.0,0.0
+nu-52,.,0.0,0.0
+nu-53,No context.,0.0,0.0
+nu-54,No context.,0.0,0.0
+nu-55,No context.,0.0,0.0
+nu-56,No context.,0.0,0.0
+nu-57,No context.,0.0,0.0
+nu-58,.,0.0,0.0
+nu-59,No context,66.66666666666666,0.0
+nu-60,.,0.0,0.0
+nu-61,.,0.0,0.0
+nu-62,No context.,0.0,0.0
+nu-63,.,0.0,0.0
+nu-64,No context.,0.0,0.0
+nu-65,No context.,0.0,0.0
+nu-66,.,0.0,0.0
+nu-67,No context.,0.0,0.0
+nu-68,No context.,0.0,0.0
+nu-69,No context.,0.0,0.0
+nu-70,No context.,0.0,0.0
+nu-71,.,0.0,0.0
+nu-72,.,0.0,0.0
+nu-73,.,0.0,0.0
+nu-74,No context.,0.0,0.0
+nu-75,No context.,0.0,0.0
+nu-76,No context.,0.0,0.0
+nu-77,.,0.0,0.0
+nu-78,.,0.0,0.0
+nu-79,No context.,0.0,0.0
+nu-80,No context.,0.0,0.0
+nu-81,No context.,0.0,0.0
+nu-82,No context.,0.0,0.0
+nu-83,.,0.0,0.0
+nu-84,.,0.0,0.0
+nu-85,.,0.0,0.0
+nu-86,.,0.0,0.0
+nu-87,No context.,0.0,0.0
+nu-88,No context.,0.0,0.0
+nu-89,No context.,0.0,0.0
+nu-90,No context.,0.0,0.0
+nu-91,No context.,0.0,0.0
+nu-92,No context.,0.0,0.0
+nu-93,No context.,0.0,0.0
+nu-94,No context.,0.0,0.0
+nu-95,No context.,0.0,0.0
+nu-96,No context.,0.0,0.0
+nu-97,No context.,0.0,0.0
+nu-98,No context.,0.0,0.0
+nu-99,.,0.0,0.0
+nu-100,No context.,0.0,0.0
+nu-101,No context.,0.0,0.0
+nu-102,.,0.0,0.0
+nu-103,No context.,0.0,0.0
+nu-104,No context.,0.0,0.0
+nu-105,No context.,0.0,0.0
+nu-106,No context.,0.0,0.0
+nu-107,No context.,0.0,0.0
+nu-108,No context.,0.0,0.0
+nu-109,No context.,0.0,0.0
+nu-110,No context.,0.0,0.0
+nu-111,No context.,0.0,0.0
+nu-112,No context.,0.0,0.0
+nu-113,No context.,0.0,0.0
+nu-114,No context.,0.0,0.0
+nu-115,.,0.0,0.0
+nu-116,No context,0.0,0.0
+nu-117,No context.,0.0,0.0
+nu-118,.,0.0,0.0
+nu-119,No context.,0.0,0.0
+nu-120,No context.,0.0,0.0
+nu-121,.,0.0,0.0
+nu-122,No context.,0.0,0.0
+nu-123,No context.,0.0,0.0
+nu-124,No context.,0.0,0.0
+nu-125,.,0.0,0.0
+nu-126,.,0.0,0.0
+nu-127,.,0.0,0.0
+nu-128,No context.,0.0,0.0
+nu-130,.,0.0,0.0
+nu-131,.,0.0,0.0
+nu-132,No context.,0.0,0.0
+nu-133,No context.,0.0,0.0
+nu-134,No context.,0.0,0.0
+nu-135,No context.,0.0,0.0
+nu-136,No context.,0.0,0.0
+nu-137,No context.,0.0,0.0
+nu-138,No context.,0.0,0.0
+nu-139,.,0.0,0.0
+nu-140,.,0.0,0.0
+nu-141,No context.,0.0,0.0
+nu-142,No context.,0.0,0.0
+nu-143,No context.,0.0,0.0
+nu-144,No context.,0.0,0.0
+nu-145,.,0.0,0.0
+nu-146,No context.,0.0,0.0
+nu-147,.,0.0,0.0
+nu-148,No context.,0.0,0.0
+nu-149,.,0.0,0.0
+nu-150,.,0.0,0.0
+nu-151,No context.,0.0,0.0
+nu-152,.,0.0,0.0
+nu-153,No context,0.0,0.0
+nu-154,.,0.0,0.0
+nu-155,.,0.0,0.0
+nu-156,No context.,0.0,0.0
+nu-157,No context.,0.0,0.0
+nu-158,No context.,0.0,0.0
+nu-159,No context,0.0,0.0
+nu-160,No context.,0.0,0.0
+nu-161,.,0.0,0.0
+nu-162,No context.,0.0,0.0
+nu-163,No context.,0.0,0.0
+nu-164,No context.,0.0,0.0
+nu-165,No context.,0.0,0.0
+nu-166,No context.,0.0,0.0
+nu-167,.,0.0,0.0
+nu-168,No context.,0.0,0.0
+nu-169,.,0.0,0.0
+nu-170,No context.,0.0,0.0
+nu-171,No context.,0.0,0.0
+nu-172,No context.,0.0,0.0
+nu-173,No context.,0.0,0.0
+nu-174,No context.,0.0,0.0
+nu-175,No context.,0.0,0.0
+nu-176,.,0.0,0.0
+nu-177,No context.,0.0,0.0
+nu-178,No context.,0.0,0.0
+nu-179,No context.,0.0,0.0
+nu-180,.,0.0,0.0
+nu-181,No context.,0.0,0.0
+nu-182,.,0.0,0.0
+nu-183,No context.,0.0,0.0
+nu-184,No context.,0.0,0.0
+nu-185,No context.,0.0,0.0
+nu-186,No context.,0.0,0.0
+nu-187,.,0.0,0.0
+nu-188,No context.,0.0,0.0
+nu-189,No context.,0.0,0.0
+nu-190,No context.,0.0,0.0
+nu-191,No context.,0.0,0.0
+nu-192,No context.,0.0,0.0
+nu-193,No context.,0.0,0.0
+nu-194,No context.,0.0,0.0
+nu-195,.,0.0,0.0
+nu-196,No context.,0.0,0.0
+nu-197,No context.,0.0,0.0
+nu-198,No context.,0.0,0.0
+nu-199,No context.,0.0,0.0
+nu-200,No context.,0.0,0.0
+nu-201,No context.,0.0,0.0
+nu-202,No context.,0.0,0.0
+nu-203,No context.,0.0,0.0
+nu-204,No context.,0.0,0.0
+nu-205,No context.,0.0,0.0
+nu-206,No context.,25.0,0.0
+nu-207,.,0.0,0.0
+nu-208,No context.,0.0,0.0
+nu-209,No context.,0.0,0.0
+nu-210,.,0.0,0.0
+nu-211,No context.,0.0,0.0
+nu-212,No context.,0.0,0.0
+nu-213,.,0.0,0.0
+nu-214,No context.,0.0,0.0
+nu-215,No context.,0.0,0.0
+nu-216,No context.,0.0,0.0
+nu-217,.,0.0,0.0
+nu-218,.,0.0,0.0
+nu-219,No context.,0.0,0.0
+nu-220,No context.,0.0,0.0
+nu-221,.,0.0,0.0
+nu-222,No context.,0.0,0.0
+nu-223,.,0.0,0.0
+nu-224,No context.,0.0,0.0
+nu-225,No context.,0.0,0.0
+nu-226,No context.,0.0,0.0
+nu-227,No context.,0.0,0.0
+nu-228,.,0.0,0.0
+nu-229,No context.,0.0,0.0
+nu-230,.,0.0,0.0
+nu-231,No context.,0.0,0.0
+nu-232,No context.,0.0,0.0
+nu-233,No context.,0.0,0.0
+nu-234,.,0.0,0.0
+nu-235,.,0.0,0.0
+nu-236,No context,0.0,0.0
+nu-237,.,0.0,0.0
+nu-238,No context.,0.0,0.0
+nu-239,.,0.0,0.0
+nu-240,No context.,0.0,0.0
+nu-241,No context.,0.0,0.0
+nu-242,No context.,0.0,0.0
+nu-243,No context.,0.0,0.0
+nu-244,No context,66.66666666666666,0.0
+nu-245,No context.,0.0,0.0
+nu-246,No context.,0.0,0.0
+nu-247,No context.,0.0,0.0
+nu-248,.,0.0,0.0
+nu-249,No context.,0.0,0.0
+nu-250,.,0.0,0.0
+nu-251,No context.,0.0,0.0
+nu-252,No context.,0.0,0.0
+nu-253,No context.,0.0,0.0
+nu-254,No context.,0.0,0.0
+nu-255,.,0.0,0.0
+nu-256,No context.,0.0,0.0
+nu-257,.,0.0,0.0
+nu-258,No context.,0.0,0.0
+nu-259,No context.,0.0,0.0
+nu-260,.,0.0,0.0
+nu-261,.,0.0,0.0
+nu-262,.,0.0,0.0
+nu-263,No context.,0.0,0.0
+nu-264,No context.,0.0,0.0
+nu-265,No context.,0.0,0.0
+nu-266,.,0.0,0.0
+nu-267,No context.,0.0,0.0
+nu-268,No context.,0.0,0.0
+nu-269,.,0.0,0.0
+nu-270,No context.,0.0,0.0
+nu-271,No context.,0.0,0.0
+nu-272,.,0.0,0.0
+nu-273,.,0.0,0.0
+nu-274,No context.,0.0,0.0
+nu-275,.,0.0,0.0
+nu-276,No context.,0.0,0.0
+nu-277,No context.,0.0,0.0
+nu-278,No context.,0.0,0.0
+nu-279,No context,0.0,0.0
+nu-280,No context.,0.0,0.0
+nu-281,No context.,0.0,0.0
+nu-282,No context.,0.0,0.0
+nu-283,No context.,0.0,0.0
+nu-284,No context.,0.0,0.0
+nu-285,No context.,0.0,0.0
+nu-286,No context.,0.0,0.0
+nu-287,No context.,0.0,0.0
+nu-288,No context.,0.0,0.0
+nu-289,No context.,0.0,0.0
+nu-290,.,0.0,0.0
+nu-291,.,0.0,0.0
+nu-292,No context.,0.0,0.0
+nu-293,No context.,0.0,0.0
+nu-295,.,0.0,0.0
+nu-296,No context.,0.0,0.0
+nu-297,.,0.0,0.0
+nu-298,No context.,0.0,0.0
+nu-299,.,0.0,0.0
+nu-300,No context.,0.0,0.0
+nu-301,No context.,0.0,0.0
+nu-302,No context.,0.0,0.0
+nu-303,No context.,0.0,0.0
+nu-304,.,0.0,0.0
+nu-305,No context.,0.0,0.0
+nu-306,No context.,0.0,0.0
+nu-307,No context.,0.0,0.0
+nu-308,No context.,0.0,0.0
+nu-309,No context.,0.0,0.0
+nu-310,No context.,0.0,0.0
+nu-311,.,0.0,0.0
+nu-312,.,0.0,0.0
+nu-313,No context.,0.0,0.0
+nu-314,No context.,0.0,0.0
+nu-315,No context.,0.0,0.0
+nu-317,No context.,0.0,0.0
+nu-318,No context.,0.0,0.0
+nu-319,.,0.0,0.0
+nu-320,No context.,0.0,0.0
+nu-321,.,0.0,0.0
+nu-322,No context.,0.0,0.0
+nu-323,.,0.0,0.0
+nu-324,No context.,0.0,0.0
+nu-325,No context.,0.0,0.0
+nu-326,No context.,0.0,0.0
+nu-327,No context.,0.0,0.0
+nu-328,No context.,0.0,0.0
+nu-329,No context.,0.0,0.0
+nu-330,No context.,66.66666666666666,0.0
+nu-331,No context.,0.0,0.0
+nu-332,No context.,0.0,0.0
+nu-333,No context.,0.0,0.0
+nu-334,No context.,0.0,0.0
+nu-335,No context.,0.0,0.0
+nu-336,No context.,0.0,0.0
+nu-337,No context.,0.0,0.0
+nu-338,No context.,0.0,0.0
+nu-339,No context.,0.0,0.0
+nu-340,No context.,0.0,0.0
+nu-342,No context.,0.0,0.0
+nu-343,.,0.0,0.0
+nu-344,.,0.0,0.0
+nu-345,.,0.0,0.0
+nu-346,No context.,0.0,0.0
+nu-347,No context.,0.0,0.0
+nu-348,No context.,0.0,0.0
+nu-349,No context.,0.0,0.0
+nu-350,.,0.0,0.0
+nu-351,No context.,0.0,0.0
+nu-352,.,0.0,0.0
+nu-353,No context.,0.0,0.0
+nu-354,No context.,0.0,0.0
+nu-355,.,0.0,0.0
+nu-356,.,0.0,0.0
+nu-357,.,0.0,0.0
+nu-358,.,0.0,0.0
+nu-359,No context.,0.0,0.0
+nu-360,.,0.0,0.0
+nu-361,.,0.0,0.0
+nu-362,.,0.0,0.0
+nu-363,No context.,0.0,0.0
+nu-364,No context.,0.0,0.0
+nu-365,No context.,0.0,0.0
+nu-366,No context.,0.0,0.0
+nu-367,No context.,0.0,0.0
+nu-368,No context.,0.0,0.0
+nu-369,No context.,0.0,0.0
+nu-370,No context.,0.0,0.0
+nu-371,No context.,0.0,0.0
+nu-372,No context.,0.0,0.0
+nu-373,No context.,0.0,0.0
+nu-374,No context.,0.0,0.0
+nu-375,.,0.0,0.0
+nu-376,.,0.0,0.0
+nu-377,No context,66.66666666666666,0.0
+nu-378,No context.,0.0,0.0
+nu-379,No context.,0.0,0.0
+nu-380,.,0.0,0.0
+nu-381,No context.,0.0,0.0
+nu-382,No context.,0.0,0.0
+nu-383,No context.,0.0,0.0
+nu-384,No context.,0.0,0.0
+nu-385,.,0.0,0.0
+nu-386,No context,0.0,0.0
+nu-387,No context.,0.0,0.0
+nu-388,No context.,0.0,0.0
+nu-389,No context.,0.0,0.0
+nu-390,.,0.0,0.0
+nu-391,No context.,0.0,0.0
+nu-392,No context.,0.0,0.0
+nu-393,No context.,66.66666666666666,0.0
+nu-394,No context.,0.0,0.0
+nu-395,.,0.0,0.0
+nu-396,No context.,0.0,0.0
+nu-397,No context.,0.0,0.0
+nu-398,No context.,0.0,0.0
+nu-399,No context.,0.0,0.0
+nu-400,.,0.0,0.0
+nu-401,.,0.0,0.0
+nu-402,No context.,0.0,0.0
+nu-403,No context.,0.0,0.0
+nu-404,No context.,0.0,0.0
+nu-405,No context.,0.0,0.0
+nu-406,.,0.0,0.0
+nu-407,No context.,0.0,0.0
+nu-408,No context.,0.0,0.0
+nu-409,No context.,0.0,0.0
+nu-410,No context.,0.0,0.0
+nu-411,No context.,0.0,0.0
+nu-412,No context.,0.0,0.0
+nu-413,No context.,0.0,0.0
+nu-414,No context.,0.0,0.0
+nu-415,.,0.0,0.0
+nu-416,.,0.0,0.0
+nu-417,No context.,0.0,0.0
+nu-418,.,0.0,0.0
+nu-419,.,0.0,0.0
+nu-421,No context.,0.0,0.0
+nu-422,.,0.0,0.0
+nu-423,No context.,0.0,0.0
+nu-424,No context.,0.0,0.0
+nu-425,No context.,0.0,0.0
+nu-426,.,0.0,0.0
+nu-427,No context.,0.0,0.0
+nu-428,No context.,0.0,0.0
+nu-429,.,0.0,0.0
+nu-430,No context.,0.0,0.0
+nu-431,.,0.0,0.0
+nu-432,No context.,0.0,0.0
+nu-433,No context.,0.0,0.0
+nu-434,.,0.0,0.0
+nu-435,No context.,0.0,0.0
+nu-436,No context.,0.0,0.0
+nu-437,.,0.0,0.0
+nu-438,.,0.0,0.0
+nu-439,No context.,0.0,0.0
+nu-440,No context.,0.0,0.0
+nu-441,.,0.0,0.0
+nu-442,No context.,0.0,0.0
+nu-443,No context.,0.0,0.0
+nu-444,No context.,0.0,0.0
+nu-445,No context.,0.0,0.0
+nu-446,No context,0.0,0.0
+nu-447,.,0.0,0.0
+nu-448,No context.,0.0,0.0
+nu-449,No context.,0.0,0.0
+nu-450,.,0.0,0.0
+nu-451,No context.,0.0,0.0
+nu-452,No context.,0.0,0.0
+nu-453,No context.,0.0,0.0
+nu-454,No context.,0.0,0.0
+nu-455,No context.,0.0,0.0
+nu-456,No context.,0.0,0.0
+nu-457,No context.,0.0,0.0
+nu-458,No context.,0.0,0.0
+nu-459,.,0.0,0.0
+nu-460,.,0.0,0.0
+nu-461,No context.,0.0,0.0
+nu-462,No context.,0.0,0.0
+nu-463,No context.,0.0,0.0
+nu-464,No context.,0.0,0.0
+nu-465,No context.,0.0,0.0
+nu-466,No context.,0.0,0.0
+nu-467,No context.,0.0,0.0
+nu-468,.,0.0,0.0
+nu-469,No context.,0.0,0.0
+nu-470,No context.,0.0,0.0
+nu-471,.,0.0,0.0
+nu-472,No context.,0.0,0.0
+nu-473,No context.,0.0,0.0
+nu-474,No context.,0.0,0.0
+nu-475,.,0.0,0.0
+nu-476,No context.,0.0,0.0
+nu-477,.,0.0,0.0
+nu-478,No context,0.0,0.0
+nu-479,No context.,0.0,0.0
+nu-480,No context.,0.0,0.0
+nu-481,.,0.0,0.0
+nu-482,No context.,0.0,0.0
+nu-483,No context.,0.0,0.0
+nu-484,No context.,0.0,0.0
+nu-485,No context.,0.0,0.0
+nu-486,No context.,0.0,0.0
+nu-487,.,0.0,0.0
+nu-488,No context.,0.0,0.0
+nu-489,.,0.0,0.0
+nu-490,No context.,0.0,0.0
+nu-491,.,0.0,0.0
+nu-492,No context.,0.0,0.0
+nu-493,No context.,0.0,0.0
+nu-494,No context.,0.0,0.0
+nu-495,No context.,0.0,0.0
+nu-496,.,0.0,0.0
+nu-497,No context.,0.0,0.0
+nu-498,No context.,0.0,0.0
+nu-499,.,0.0,0.0
+nu-500,No context.,0.0,0.0
+nu-501,No context.,0.0,0.0
+nu-502,No context.,0.0,0.0
+nu-503,No context.,0.0,0.0
+nu-504,No context.,0.0,0.0
+nu-505,No context.,0.0,0.0
+nu-506,No context.,0.0,0.0
+nu-507,.,0.0,0.0
+nu-508,No context.,0.0,0.0
+nu-509,No context.,66.66666666666666,0.0
+nu-510,No context.,0.0,0.0
+nu-511,.,0.0,0.0
+nu-512,No context.,0.0,0.0
+nu-513,No context.,0.0,0.0
+nu-514,.,0.0,0.0
+nu-515,No context.,0.0,0.0
+nu-516,No context,0.0,0.0
+nu-517,No context.,0.0,0.0
+nu-518,No context.,0.0,0.0
+nu-519,.,0.0,0.0
+nu-520,No context.,0.0,0.0
+nu-521,No context.,0.0,0.0
+nu-522,No context.,0.0,0.0
+nu-523,No context.,0.0,0.0
+nu-524,No context.,66.66666666666666,0.0
+nu-525,No context.,0.0,0.0
+nu-526,.,0.0,0.0
+nu-527,No context.,0.0,0.0
+nu-528,No context.,0.0,0.0
+nu-529,No context.,0.0,0.0
+nu-530,.,0.0,0.0
+nu-531,No context.,0.0,0.0
+nu-532,No context.,0.0,0.0
+nu-533,No context.,0.0,0.0
+nu-534,.,0.0,0.0
+nu-535,No context,0.0,0.0
+nu-536,No context.,0.0,0.0
+nu-537,No context.,0.0,0.0
+nu-538,No context,0.0,0.0
+nu-539,No context.,0.0,0.0
+nu-540,.,0.0,0.0
+nu-541,No context.,0.0,0.0
+nu-542,.,0.0,0.0
+nu-543,No context.,0.0,0.0
+nu-544,No context.,0.0,0.0
+nu-545,No context.,0.0,0.0
+nu-546,.,0.0,0.0
+nu-547,No context.,0.0,0.0
+nu-548,No context.,0.0,0.0
+nu-549,No context.,0.0,0.0
+nu-550,No context.,0.0,0.0
+nu-551,No context.,0.0,0.0
+nu-552,.,0.0,0.0
+nu-553,No context.,0.0,0.0
+nu-554,No context.,0.0,0.0
+nu-555,.,0.0,0.0
+nu-556,No context.,0.0,0.0
+nu-557,No context.,0.0,0.0
+nu-558,No context.,0.0,0.0
+nu-559,No context.,0.0,0.0
+nu-560,.,0.0,0.0
+nu-561,No context.,0.0,0.0
+nu-562,No context.,0.0,0.0
+nu-563,No context.,0.0,0.0
+nu-564,No context.,0.0,0.0
+nu-565,No context.,0.0,0.0
+nu-566,No context.,0.0,0.0
+nu-567,No context.,0.0,0.0
+nu-568,.,0.0,0.0
+nu-569,No context.,0.0,0.0
+nu-570,No context.,0.0,0.0
+nu-571,No context.,0.0,0.0
+nu-572,No context.,0.0,0.0
+nu-573,.,0.0,0.0
+nu-574,No context.,0.0,0.0
+nu-575,No context.,0.0,0.0
+nu-576,No context.,0.0,0.0
+nu-577,No context.,0.0,0.0
+nu-578,No context,0.0,0.0
+nu-579,.,0.0,0.0
+nu-580,.,0.0,0.0
+nu-581,No context.,0.0,0.0
+nu-582,No context.,0.0,0.0
+nu-583,No context,0.0,0.0
+nu-584,No context.,0.0,0.0
+nu-585,No context.,0.0,0.0
+nu-586,No context,0.0,0.0
+nu-587,No context.,0.0,0.0
+nu-588,No context.,0.0,0.0
+nu-589,No context.,0.0,0.0
+nu-590,No context.,0.0,0.0
+nu-591,No context.,66.66666666666666,0.0
+nu-592,No context.,0.0,0.0
+nu-593,.,0.0,0.0
+nu-594,.,0.0,0.0
+nu-595,.,0.0,0.0
+nu-596,No context.,0.0,0.0
+nu-597,No context.,0.0,0.0
+nu-598,No context.,0.0,0.0
+nu-599,.,0.0,0.0
+nu-600,No context.,0.0,0.0
+nu-601,.,0.0,0.0
+nu-602,No context.,0.0,0.0
+nu-603,.,0.0,0.0
+nu-604,No context.,0.0,0.0
+nu-605,No context.,0.0,0.0
+nu-606,No context.,0.0,0.0
+nu-607,.,0.0,0.0
+nu-608,No context.,0.0,0.0
+nu-609,.,0.0,0.0
+nu-610,No context.,0.0,0.0
+nu-611,.,0.0,0.0
+nu-612,No context.,0.0,0.0
+nu-613,No context,0.0,0.0
+nu-614,No context.,0.0,0.0
+nu-616,No context.,0.0,0.0
+nu-617,.,0.0,0.0
+nu-618,No context.,0.0,0.0
+nu-619,No context.,0.0,0.0
+nu-620,No context.,0.0,0.0
+nu-621,No context.,0.0,0.0
+nu-622,.,0.0,0.0
+nu-623,No context.,0.0,0.0
+nu-624,No context.,0.0,0.0
+nu-625,No context.,0.0,0.0
+nu-626,No context.,0.0,0.0
+nu-627,No context.,0.0,0.0
+nu-628,No context.,0.0,0.0
+nu-629,.,0.0,0.0
+nu-630,.,0.0,0.0
+nu-631,.,0.0,0.0
+nu-632,No context.,0.0,0.0
+nu-633,No context.,0.0,0.0
+nu-634,.,0.0,0.0
+nu-635,No context.,0.0,0.0
+nu-636,No context.,0.0,0.0
+nu-637,No context.,0.0,0.0
+nu-638,No context,0.0,0.0
+nu-639,No context.,0.0,0.0
+nu-640,.,0.0,0.0
+nu-641,.,0.0,0.0
+nu-642,.,0.0,0.0
+nu-643,No context,0.0,0.0
+nu-644,No context.,0.0,0.0
+nu-645,No context.,0.0,0.0
+nu-646,No context,0.0,0.0
+nu-647,No context.,0.0,0.0
+nu-648,No context.,0.0,0.0
+nu-649,No context.,0.0,0.0
+nu-650,No context.,0.0,0.0
+nu-651,No context.,0.0,0.0
+nu-652,.,0.0,0.0
+nu-653,.,0.0,0.0
+nu-654,No context.,0.0,0.0
+nu-655,.,0.0,0.0
+nu-656,No context.,0.0,0.0
+nu-657,No context.,0.0,0.0
+nu-658,No context.,0.0,0.0
+nu-659,No context.,0.0,0.0
+nu-660,.,0.0,0.0
+nu-661,No context,0.0,0.0
+nu-662,No context.,0.0,0.0
+nu-663,No context.,0.0,0.0
+nu-664,No context.,0.0,0.0
+nu-665,No context.,0.0,0.0
+nu-666,No context.,0.0,0.0
+nu-667,No context.,0.0,0.0
+nu-668,.,0.0,0.0
+nu-669,No context.,0.0,0.0
+nu-670,No context.,0.0,0.0
+nu-671,No context.,0.0,0.0
+nu-672,No context.,0.0,0.0
+nu-673,.,0.0,0.0
+nu-674,No context.,0.0,0.0
+nu-675,.,0.0,0.0
+nu-676,No context.,0.0,0.0
+nu-677,No context.,0.0,0.0
+nu-678,No context.,0.0,0.0
+nu-679,.,0.0,0.0
+nu-680,.,0.0,0.0
+nu-681,No context.,0.0,0.0
+nu-682,.,0.0,0.0
+nu-683,No context.,0.0,0.0
+nu-684,No context.,0.0,0.0
+nu-685,No context.,0.0,0.0
+nu-686,No context.,0.0,0.0
+nu-687,No context.,0.0,0.0
+nu-688,No context.,0.0,0.0
+nu-689,No context.,0.0,0.0
+nu-690,No context.,0.0,0.0
+nu-691,No context.,0.0,0.0
+nu-692,No context.,0.0,0.0
+nu-693,.,0.0,0.0
+nu-694,No context.,0.0,0.0
+nu-695,.,0.0,0.0
+nu-696,No context.,0.0,0.0
+nu-697,.,0.0,0.0
+nu-698,No context.,0.0,0.0
+nu-699,No context.,0.0,0.0
+nu-700,No context,0.0,0.0
+nu-701,No context.,0.0,0.0
+nu-702,No context.,0.0,0.0
+nu-703,No context.,0.0,0.0
+nu-704,.,0.0,0.0
+nu-705,No context.,0.0,0.0
+nu-706,No context.,0.0,0.0
+nu-707,.,0.0,0.0
+nu-708,No context.,0.0,0.0
+nu-709,.,0.0,0.0
+nu-710,No context.,0.0,0.0
+nu-711,No context.,0.0,0.0
+nu-712,No context.,0.0,0.0
+nu-713,No context.,0.0,0.0
+nu-714,No context.,0.0,0.0
+nu-715,.,0.0,0.0
+nu-716,No context.,0.0,0.0
+nu-717,No context,0.0,0.0
+nu-718,No context.,0.0,0.0
+nu-719,.,0.0,0.0
+nu-720,No context.,0.0,0.0
+nu-721,No context.,0.0,0.0
+nu-722,.,0.0,0.0
+nu-723,No context.,0.0,0.0
+nu-724,No context.,0.0,0.0
+nu-725,No context.,0.0,0.0
+nu-726,.,0.0,0.0
+nu-727,No context,0.0,0.0
+nu-728,No context.,0.0,0.0
+nu-729,.,0.0,0.0
+nu-730,.,0.0,0.0
+nu-731,No context.,0.0,0.0
+nu-732,No context.,0.0,0.0
+nu-733,No context.,0.0,0.0
+nu-734,No context.,0.0,0.0
+nu-735,No context.,0.0,0.0
+nu-736,.,0.0,0.0
+nu-737,No context.,0.0,0.0
+nu-738,No context.,0.0,0.0
+nu-739,.,0.0,0.0
+nu-740,No context.,0.0,0.0
+nu-741,No context.,0.0,0.0
+nu-742,No context.,0.0,0.0
+nu-743,No context.,0.0,0.0
+nu-744,No context.,0.0,0.0
+nu-745,.,0.0,0.0
+nu-746,.,0.0,0.0
+nu-747,No context.,0.0,0.0
+nu-748,No context.,0.0,0.0
+nu-749,No context.,0.0,0.0
+nu-750,.,0.0,0.0
+nu-751,No context.,0.0,0.0
+nu-752,.,0.0,0.0
+nu-753,No context.,0.0,0.0
+nu-754,No context.,0.0,0.0
+nu-755,No context.,0.0,0.0
+nu-756,No context.,0.0,0.0
+nu-757,No context.,0.0,0.0
+nu-758,No context.,0.0,0.0
+nu-759,No context.,0.0,0.0
+nu-760,.,0.0,0.0
+nu-761,No context.,0.0,0.0
+nu-762,No context.,0.0,0.0
+nu-763,No context.,0.0,0.0
+nu-764,No context.,0.0,0.0
+nu-765,.,0.0,0.0
+nu-766,No context.,0.0,0.0
+nu-767,.,0.0,0.0
+nu-768,.,0.0,0.0
+nu-769,.,0.0,0.0
+nu-770,No context.,0.0,0.0
+nu-771,No context.,0.0,0.0
+nu-772,No context.,0.0,0.0
+nu-773,No context,0.0,0.0
+nu-774,No context.,0.0,0.0
+nu-775,No context.,0.0,0.0
+nu-776,No context.,0.0,0.0
+nu-777,.,0.0,0.0
+nu-778,.,0.0,0.0
+nu-779,.,0.0,0.0
+nu-780,No context.,0.0,0.0
+nu-781,No context.,0.0,0.0
+nu-782,No context.,0.0,0.0
+nu-783,No context.,0.0,0.0
+nu-784,.,0.0,0.0
+nu-785,No context.,0.0,0.0
+nu-786,No context.,0.0,0.0
+nu-787,No context.,0.0,0.0
+nu-788,No context,0.0,0.0
+nu-789,.,0.0,0.0
+nu-790,No context.,0.0,0.0
+nu-791,.,0.0,0.0
+nu-792,.,0.0,0.0
+nu-793,.,0.0,0.0
+nu-794,.,0.0,0.0
+nu-795,No context.,0.0,0.0
+nu-796,No context.,0.0,0.0
+nu-797,No context.,0.0,0.0
+nu-798,No context.,0.0,0.0
+nu-799,No context.,0.0,0.0
+nu-800,No context.,0.0,0.0
+nu-801,No context.,0.0,0.0
+nu-802,.,0.0,0.0
+nu-803,No context.,0.0,0.0
+nu-804,No context.,0.0,0.0
+nu-805,No context,0.0,0.0
+nu-806,No context.,0.0,0.0
+nu-807,No context.,0.0,0.0
+nu-808,No context.,0.0,0.0
+nu-809,No context.,0.0,0.0
+nu-810,No context.,0.0,0.0
+nu-811,No context.,0.0,0.0
+nu-812,No context.,0.0,0.0
+nu-813,No context.,0.0,0.0
+nu-814,.,0.0,0.0
+nu-815,.,0.0,0.0
+nu-816,No context.,0.0,0.0
+nu-817,.,0.0,0.0
+nu-818,No context.,0.0,0.0
+nu-820,.,0.0,0.0
+nu-821,No context.,0.0,0.0
+nu-822,No context.,0.0,0.0
+nu-823,No context.,0.0,0.0
+nu-824,.,0.0,0.0
+nu-825,No context.,0.0,0.0
+nu-826,No context.,0.0,0.0
+nu-827,.,0.0,0.0
+nu-828,.,0.0,0.0
+nu-830,No context.,0.0,0.0
+nu-831,No context.,0.0,0.0
+nu-832,.,0.0,0.0
+nu-833,No context.,0.0,0.0
+nu-834,No context.,0.0,0.0
+nu-835,No context.,0.0,0.0
+nu-836,No context.,0.0,0.0
+nu-837,No context.,0.0,0.0
+nu-838,No context.,0.0,0.0
+nu-839,No context.,0.0,0.0
+nu-840,No context.,0.0,0.0
+nu-841,No context.,0.0,0.0
+nu-842,No context.,0.0,0.0
+nu-843,No context.,0.0,0.0
+nu-844,No context.,0.0,0.0
+nu-845,.,0.0,0.0
+nu-846,No context.,0.0,0.0
+nu-847,No context.,0.0,0.0
+nu-848,No context.,0.0,0.0
+nu-849,No context.,0.0,0.0
+nu-850,.,0.0,0.0
+nu-851,No context.,0.0,0.0
+nu-852,.,0.0,0.0
+nu-853,No context.,0.0,0.0
+nu-854,No context.,0.0,0.0
+nu-855,No context.,0.0,0.0
+nu-856,No context.,0.0,0.0
+nu-857,No context.,0.0,0.0
+nu-858,No context.,0.0,0.0
+nu-859,No context.,0.0,0.0
+nu-860,No context.,0.0,0.0
+nu-861,No context.,0.0,0.0
+nu-862,No context.,0.0,0.0
+nu-863,No context.,0.0,0.0
+nu-864,.,0.0,0.0
+nu-865,No context,0.0,0.0
+nu-866,No context.,0.0,0.0
+nu-867,No context.,0.0,0.0
+nu-868,No context.,0.0,0.0
+nu-869,.,0.0,0.0
+nu-870,.,0.0,0.0
+nu-871,No context.,0.0,0.0
+nu-872,No context.,0.0,0.0
+nu-873,No context.,0.0,0.0
+nu-874,No context.,0.0,0.0
+nu-875,No context.,0.0,0.0
+nu-876,.,0.0,0.0
+nu-877,No context.,0.0,0.0
+nu-878,No context.,66.66666666666666,0.0
+nu-879,No context.,0.0,0.0
+nu-880,No context.,0.0,0.0
+nu-881,No context.,0.0,0.0
+nu-882,No context.,0.0,0.0
+nu-883,No context.,0.0,0.0
+nu-884,.,0.0,0.0
+nu-885,No context.,0.0,0.0
+nu-886,No context.,0.0,0.0
+nu-887,No context.,0.0,0.0
+nu-888,No context.,0.0,0.0
+nu-889,No context.,0.0,0.0
+nu-890,No context.,0.0,0.0
+nu-891,No context.,0.0,0.0
+nu-892,No context.,0.0,0.0
+nu-893,No context.,0.0,0.0
+nu-894,No context.,0.0,0.0
+nu-895,No context.,0.0,0.0
+nu-896,No context.,0.0,0.0
+nu-897,No context.,0.0,0.0
+nu-898,No context.,0.0,0.0
+nu-899,No context.,0.0,0.0
+nu-900,No context.,0.0,0.0
+nu-901,.,0.0,0.0
+nu-902,.,0.0,0.0
+nu-903,No context.,0.0,0.0
+nu-904,No context.,0.0,0.0
+nu-905,No context.,0.0,0.0
+nu-906,No context.,0.0,0.0
+nu-907,No context.,0.0,0.0
+nu-908,No context,0.0,0.0
+nu-909,No context.,0.0,0.0
+nu-910,No context,0.0,0.0
+nu-911,No context.,0.0,0.0
+nu-912,No context.,0.0,0.0
+nu-913,No context.,0.0,0.0
+nu-914,.,0.0,0.0
+nu-915,No context.,0.0,0.0
+nu-916,No context.,0.0,0.0
+nu-917,No context.,0.0,0.0
+nu-918,No context.,0.0,0.0
+nu-919,No context.,0.0,0.0
+nu-920,No context.,0.0,0.0
+nu-921,.,0.0,0.0
+nu-922,No context.,0.0,0.0
+nu-923,No context.,0.0,0.0
+nu-924,No context.,0.0,0.0
+nu-925,No context.,0.0,0.0
+nu-926,.,0.0,0.0
+nu-927,.,0.0,0.0
+nu-928,No context.,0.0,0.0
+nu-929,No context.,0.0,0.0
+nu-930,No context.,0.0,0.0
+nu-931,No context.,0.0,0.0
+nu-932,No context.,0.0,0.0
+nu-933,No context.,0.0,0.0
+nu-934,No context.,0.0,0.0
+nu-935,No context.,0.0,0.0
+nu-936,No context.,0.0,0.0
+nu-937,No context.,0.0,0.0
+nu-938,No context.,0.0,0.0
+nu-939,.,0.0,0.0
+nu-940,No context.,0.0,0.0
+nu-941,No context.,0.0,0.0
+nu-942,.,0.0,0.0
+nu-943,No context.,0.0,0.0
+nu-944,No context.,0.0,0.0
+nu-945,.,0.0,0.0
+nu-946,No context.,0.0,0.0
+nu-947,.,0.0,0.0
+nu-948,No context.,0.0,0.0
+nu-949,No context.,0.0,0.0
+nu-950,.,0.0,0.0
+nu-951,No context.,0.0,0.0
+nu-952,No context.,0.0,0.0
+nu-953,No context.,0.0,0.0
+nu-954,No context.,0.0,0.0
+nu-955,No context.,0.0,0.0
+nu-956,No context.,0.0,0.0
+nu-957,No context.,0.0,0.0
+nu-958,No context.,0.0,0.0
+nu-959,.,0.0,0.0
+nu-960,.,0.0,0.0
+nu-961,No context.,0.0,0.0
+nu-962,.,0.0,0.0
+nu-963,No context.,0.0,0.0
+nu-964,No context.,0.0,0.0
+nu-965,No context.,0.0,0.0
+nu-966,No context.,66.66666666666666,0.0
+nu-967,No context.,0.0,0.0
+nu-968,No context.,0.0,0.0
+nu-969,No context,0.0,0.0
+nu-970,No context.,0.0,0.0
+nu-971,No context.,0.0,0.0
+nu-972,No context.,0.0,0.0
+nu-973,No context.,0.0,0.0
+nu-974,No context.,0.0,0.0
+nu-975,No context.,0.0,0.0
+nu-976,.,0.0,0.0
+nu-977,No context.,0.0,0.0
+nu-978,No context.,0.0,0.0
+nu-979,No context.,0.0,0.0
+nu-980,.,0.0,0.0
+nu-981,No context.,0.0,0.0
+nu-982,No context.,0.0,0.0
+nu-983,No context,0.0,0.0
+nu-984,No context.,0.0,0.0
+nu-985,No context.,0.0,0.0
+nu-986,No context.,0.0,0.0
+nu-987,No context.,0.0,0.0
+nu-988,No context.,0.0,0.0
+nu-989,No context.,0.0,0.0
+nu-990,.,0.0,0.0
+nu-991,No context.,0.0,0.0
+nu-992,No context.,0.0,0.0
+nu-993,No context.,0.0,0.0
+nu-994,.,0.0,0.0
+nu-995,.,0.0,0.0
+nu-996,No context.,0.0,0.0
+nu-997,No context.,0.0,0.0
+nu-998,No context.,0.0,0.0
+nu-999,No context,0.0,0.0
+nu-1000,.,0.0,0.0
+nu-1001,No context.,0.0,0.0
+nu-1002,.,0.0,0.0
+nu-1003,No context.,0.0,0.0
+nu-1004,No context.,0.0,0.0
+nu-1005,No context,0.0,0.0
+nu-1006,No context.,0.0,0.0
+nu-1007,No context.,0.0,0.0
+nu-1008,No context.,0.0,0.0
+nu-1009,No context.,0.0,0.0
+nu-1010,No context.,0.0,0.0
+nu-1011,No context.,0.0,0.0
+nu-1012,No context.,0.0,0.0
+nu-1013,.,0.0,0.0
+nu-1014,No context.,0.0,0.0
+nu-1015,No context.,0.0,0.0
+nu-1016,No context,0.0,0.0
+nu-1017,No context.,0.0,0.0
+nu-1018,.,0.0,0.0
+nu-1019,No context.,0.0,0.0
+nu-1020,No context.,0.0,0.0
+nu-1021,No context.,0.0,0.0
+nu-1022,.,0.0,0.0
+nu-1023,.,0.0,0.0
+nu-1024,No context.,0.0,0.0
+nu-1025,No context.,0.0,0.0
+nu-1026,No context.,0.0,0.0
+nu-1027,.,0.0,0.0
+nu-1028,No context.,0.0,0.0
+nu-1029,No context.,0.0,0.0
+nu-1030,No context.,0.0,0.0
+nu-1031,No context.,0.0,0.0
+nu-1032,.,0.0,0.0
+nu-1033,No context.,0.0,0.0
+nu-1034,No context.,0.0,0.0
+nu-1035,No context.,0.0,0.0
+nu-1036,No context.,0.0,0.0
+nu-1037,No context.,0.0,0.0
+nu-1038,No context.,0.0,0.0
+nu-1039,No context.,0.0,0.0
+nu-1040,.,0.0,0.0
+nu-1041,No context.,0.0,0.0
+nu-1042,No context.,0.0,0.0
+nu-1043,No context.,0.0,0.0
+nu-1044,No context,66.66666666666666,0.0
+nu-1045,No context.,0.0,0.0
+nu-1046,No context.,0.0,0.0
+nu-1047,No context.,0.0,0.0
+nu-1048,.,0.0,0.0
+nu-1049,No context.,0.0,0.0
+nu-1050,No context.,0.0,0.0
+nu-1051,No context.,0.0,0.0
+nu-1052,No context.,0.0,0.0
+nu-1053,No context.,0.0,0.0
+nu-1054,No context.,0.0,0.0
+nu-1055,.,0.0,0.0
+nu-1056,No context.,0.0,0.0
+nu-1057,No context.,0.0,0.0
+nu-1058,No context.,0.0,0.0
+nu-1059,No context,0.0,0.0
+nu-1060,No context.,0.0,0.0
+nu-1061,.,0.0,0.0
+nu-1062,No context.,0.0,0.0
+nu-1063,No context.,0.0,0.0
+nu-1064,No context.,0.0,0.0
+nu-1065,No context.,0.0,0.0
+nu-1066,No context,0.0,0.0
+nu-1067,No context.,0.0,0.0
+nu-1068,No context.,0.0,0.0
+nu-1069,No context.,0.0,0.0
+nu-1070,.,0.0,0.0
+nu-1071,.,0.0,0.0
+nu-1072,.,0.0,0.0
+nu-1073,No context.,0.0,0.0
+nu-1074,No context.,0.0,0.0
+nu-1075,No context.,0.0,0.0
+nu-1076,No context.,0.0,0.0
+nu-1077,No context.,0.0,0.0
+nu-1078,.,0.0,0.0
+nu-1079,No context.,0.0,0.0
+nu-1080,No context.,0.0,0.0
+nu-1081,.,0.0,0.0
+nu-1082,No context.,0.0,0.0
+nu-1083,No context.,0.0,0.0
+nu-1084,No context.,0.0,0.0
+nu-1085,No context.,0.0,0.0
+nu-1086,No context.,0.0,0.0
+nu-1087,No context.,0.0,0.0
+nu-1088,.,0.0,0.0
+nu-1089,.,0.0,0.0
+nu-1090,.,0.0,0.0
+nu-1091,.,0.0,0.0
+nu-1092,No context.,0.0,0.0
+nu-1093,No context.,0.0,0.0
+nu-1094,No context.,0.0,0.0
+nu-1095,No context.,0.0,0.0
+nu-1096,.,0.0,0.0
+nu-1097,No context.,0.0,0.0
+nu-1098,No context.,0.0,0.0
+nu-1099,No context.,0.0,0.0
+nu-1100,No context.,0.0,0.0
+nu-1101,No context.,0.0,0.0
+nu-1102,.,0.0,0.0
+nu-1103,No context.,0.0,0.0
+nu-1104,.,0.0,0.0
+nu-1105,No context.,0.0,0.0
+nu-1106,No context.,0.0,0.0
+nu-1107,.,0.0,0.0
+nu-1108,No context.,0.0,0.0
+nu-1109,.,0.0,0.0
+nu-1110,No context.,0.0,0.0
+nu-1111,No context.,0.0,0.0
+nu-1112,No context.,0.0,0.0
+nu-1113,.,0.0,0.0
+nu-1114,No context,0.0,0.0
+nu-1115,No context.,0.0,0.0
+nu-1116,.,0.0,0.0
+nu-1117,No context.,0.0,0.0
+nu-1118,.,0.0,0.0
+nu-1119,No context.,0.0,0.0
+nu-1120,No context.,0.0,0.0
+nu-1121,.,0.0,0.0
+nu-1122,.,0.0,0.0
+nu-1123,.,0.0,0.0
+nu-1124,No context.,0.0,0.0
+nu-1125,No context.,0.0,0.0
+nu-1126,No context.,0.0,0.0
+nu-1127,No context.,0.0,0.0
+nu-1128,.,0.0,0.0
+nu-1129,.,0.0,0.0
+nu-1130,No context.,0.0,0.0
+nu-1131,No context.,0.0,0.0
+nu-1132,No context.,0.0,0.0
+nu-1133,No context.,0.0,0.0
+nu-1134,No context.,0.0,0.0
+nu-1135,.,0.0,0.0
+nu-1136,.,0.0,0.0
+nu-1137,No context.,0.0,0.0
+nu-1138,No context.,0.0,0.0
+nu-1139,No context.,0.0,0.0
+nu-1140,No context.,0.0,0.0
+nu-1141,No context.,0.0,0.0
+nu-1142,No context.,0.0,0.0
+nu-1143,.,0.0,0.0
+nu-1144,No context,0.0,0.0
+nu-1145,No context.,0.0,0.0
+nu-1146,.,0.0,0.0
+nu-1147,No context.,0.0,0.0
+nu-1148,No context.,0.0,0.0
+nu-1149,No context.,0.0,0.0
+nu-1150,No context.,0.0,0.0
+nu-1151,No context.,0.0,0.0
+nu-1152,No context.,0.0,0.0
+nu-1153,No context.,0.0,0.0
+nu-1154,.,0.0,0.0
+nu-1155,No context.,0.0,0.0
+nu-1156,No context.,0.0,0.0
+nu-1157,No context.,0.0,0.0
+nu-1158,No context.,0.0,0.0
+nu-1159,No context.,0.0,0.0
+nu-1160,No context.,0.0,0.0
+nu-1161,No context.,0.0,0.0
+nu-1162,No context.,0.0,0.0
+nu-1163,No context.,0.0,0.0
+nu-1164,No context.,0.0,0.0
+nu-1165,No context.,0.0,0.0
+nu-1166,.,0.0,0.0
+nu-1167,.,0.0,0.0
+nu-1168,No context.,0.0,0.0
+nu-1169,.,0.0,0.0
+nu-1170,No context.,0.0,0.0
+nu-1171,.,0.0,0.0
+nu-1172,No context.,0.0,0.0
+nu-1173,No context.,0.0,0.0
+nu-1174,.,0.0,0.0
+nu-1175,No context.,0.0,0.0
+nu-1176,No context.,0.0,0.0
+nu-1177,No context.,0.0,0.0
+nu-1178,No context.,0.0,0.0
+nu-1179,No context.,0.0,0.0
+nu-1180,No context.,0.0,0.0
+nu-1181,.,0.0,0.0
+nu-1182,.,0.0,0.0
+nu-1183,No context.,0.0,0.0
+nu-1184,No context.,0.0,0.0
+nu-1185,No context.,0.0,0.0
+nu-1186,No context.,0.0,0.0
+nu-1187,No context.,0.0,0.0
+nu-1188,No context.,0.0,0.0
+nu-1189,No context.,0.0,0.0
+nu-1190,.,0.0,0.0
+nu-1191,.,0.0,0.0
+nu-1192,No context.,0.0,0.0
+nu-1193,No context.,0.0,0.0
+nu-1194,No context.,0.0,0.0
+nu-1195,No context.,0.0,0.0
+nu-1196,No context.,0.0,0.0
+nu-1197,No context.,0.0,0.0
+nu-1198,No context.,0.0,0.0
+nu-1199,No context.,0.0,0.0
+nu-1200,.,0.0,0.0
+nu-1201,No context.,0.0,0.0
+nu-1202,.,0.0,0.0
+nu-1203,.,0.0,0.0
+nu-1204,.,0.0,0.0
+nu-1205,.,0.0,0.0
+nu-1206,No context.,0.0,0.0
+nu-1207,No context.,0.0,0.0
+nu-1208,No context.,0.0,0.0
+nu-1209,No context.,0.0,0.0
+nu-1210,No context.,0.0,0.0
+nu-1211,.,0.0,0.0
+nu-1212,No context.,0.0,0.0
+nu-1213,No context,0.0,0.0
+nu-1214,No context.,0.0,0.0
+nu-1215,No context.,0.0,0.0
+nu-1216,.,0.0,0.0
+nu-1217,.,0.0,0.0
+nu-1218,No context.,0.0,0.0
+nu-1219,No context.,0.0,0.0
+nu-1220,.,0.0,0.0
+nu-1221,No context.,0.0,0.0
+nu-1222,No context.,0.0,0.0
+nu-1223,No context.,0.0,0.0
+nu-1224,No context.,0.0,0.0
+nu-1225,.,0.0,0.0
+nu-1226,.,0.0,0.0
+nu-1227,.,0.0,0.0
+nu-1228,No context.,0.0,0.0
+nu-1229,No context.,0.0,0.0
+nu-1230,No context.,0.0,0.0
+nu-1231,.,0.0,0.0
+nu-1232,.,0.0,0.0
+nu-1233,No context.,0.0,0.0
+nu-1234,No context.,0.0,0.0
+nu-1235,.,0.0,0.0
+nu-1236,No context.,0.0,0.0
+nu-1237,.,0.0,0.0
+nu-1238,No context.,0.0,0.0
+nu-1239,No context.,0.0,0.0
+nu-1240,No context.,0.0,0.0
+nu-1242,.,0.0,0.0
+nu-1243,No context.,0.0,0.0
+nu-1244,No context.,0.0,0.0
+nu-1245,No context.,0.0,0.0
+nu-1246,No context.,0.0,0.0
+nu-1247,No context.,0.0,0.0
+nu-1248,.,0.0,0.0
+nu-1249,.,0.0,0.0
+nu-1250,.,0.0,0.0
+nu-1251,No context.,0.0,0.0
+nu-1252,No context.,0.0,0.0
+nu-1253,No context.,0.0,0.0
+nu-1254,No context,0.0,0.0
+nu-1255,.,0.0,0.0
+nu-1256,No context.,0.0,0.0
+nu-1257,No context.,0.0,0.0
+nu-1258,No context.,0.0,0.0
+nu-1259,.,0.0,0.0
+nu-1260,.,0.0,0.0
+nu-1261,No context.,0.0,0.0
+nu-1262,No context,66.66666666666666,0.0
+nu-1263,No context.,0.0,0.0
+nu-1264,No context.,0.0,0.0
+nu-1265,.,0.0,0.0
+nu-1266,No context.,0.0,0.0
+nu-1267,.,0.0,0.0
+nu-1268,No context.,0.0,0.0
+nu-1269,No context.,0.0,0.0
+nu-1270,No context.,0.0,0.0
+nu-1271,No context.,0.0,0.0
+nu-1272,No context.,0.0,0.0
+nu-1273,.,0.0,0.0
+nu-1274,.,0.0,0.0
+nu-1275,No context.,0.0,0.0
+nu-1276,No context.,0.0,0.0
+nu-1277,.,0.0,0.0
+nu-1278,No context.,0.0,0.0
+nu-1279,No context.,0.0,0.0
+nu-1280,No context.,0.0,0.0
+nu-1281,No context.,0.0,0.0
+nu-1282,No context,0.0,0.0
+nu-1283,No context.,0.0,0.0
+nu-1284,No context.,0.0,0.0
+nu-1285,No context.,0.0,0.0
+nu-1286,.,0.0,0.0
+nu-1287,No context.,0.0,0.0
+nu-1288,No context.,0.0,0.0
+nu-1289,No context.,0.0,0.0
+nu-1290,No context.,0.0,0.0
+nu-1291,No context.,0.0,0.0
+nu-1292,.,0.0,0.0
+nu-1293,No context.,0.0,0.0
+nu-1294,.,0.0,0.0
+nu-1295,No context.,0.0,0.0
+nu-1296,No context.,0.0,0.0
+nu-1297,No context.,0.0,0.0
+nu-1298,No context.,0.0,0.0
+nu-1299,No context.,0.0,0.0
+nu-1300,.,0.0,0.0
+nu-1302,No context.,0.0,0.0
+nu-1303,No context.,0.0,0.0
+nu-1304,.,0.0,0.0
+nu-1305,No context.,0.0,0.0
+nu-1306,.,0.0,0.0
+nu-1307,No context.,0.0,0.0
+nu-1308,No context.,0.0,0.0
+nu-1309,No context.,0.0,0.0
+nu-1310,No context.,0.0,0.0
+nu-1311,No context.,0.0,0.0
+nu-1312,No context.,0.0,0.0
+nu-1313,No context.,0.0,0.0
+nu-1314,No context.,0.0,0.0
+nu-1315,No context.,0.0,0.0
+nu-1316,.,0.0,0.0
+nu-1317,No context.,0.0,0.0
+nu-1318,No context.,0.0,0.0
+nu-1319,No context.,0.0,0.0
+nu-1320,No context.,0.0,0.0
+nu-1321,.,0.0,0.0
+nu-1322,.,0.0,0.0
+nu-1323,.,0.0,0.0
+nu-1324,No context.,0.0,0.0
+nu-1325,No context.,0.0,0.0
+nu-1326,.,0.0,0.0
+nu-1327,No context.,0.0,0.0
+nu-1328,No context.,0.0,0.0
+nu-1329,.,0.0,0.0
+nu-1330,No context.,0.0,0.0
+nu-1331,No context.,0.0,0.0
+nu-1332,No context.,0.0,0.0
+nu-1333,No context.,0.0,0.0
+nu-1334,No context.,0.0,0.0
+nu-1335,No context.,0.0,0.0
+nu-1336,No context.,0.0,0.0
+nu-1337,No context.,0.0,0.0
+nu-1338,No context.,0.0,0.0
+nu-1339,.,0.0,0.0
+nu-1340,No context.,0.0,0.0
+nu-1341,No context.,0.0,0.0
+nu-1342,No context.,0.0,0.0
+nu-1343,No context.,0.0,0.0
+nu-1344,No context.,0.0,0.0
+nu-1345,No context.,0.0,0.0
+nu-1346,No context.,0.0,0.0
+nu-1347,.,0.0,0.0
+nu-1348,.,0.0,0.0
+nu-1349,No context.,0.0,0.0
+nu-1350,No context.,0.0,0.0
+nu-1351,No context.,0.0,0.0
+nu-1352,No context.,0.0,0.0
+nu-1353,No context.,0.0,0.0
+nu-1354,No context.,0.0,0.0
+nu-1355,.,0.0,0.0
+nu-1356,No context.,0.0,0.0
+nu-1357,No context.,0.0,0.0
+nu-1358,.,0.0,0.0
+nu-1359,.,0.0,0.0
+nu-1360,.,0.0,0.0
+nu-1361,No context.,0.0,0.0
+nu-1362,No context.,0.0,0.0
+nu-1363,No context.,0.0,0.0
+nu-1364,No context.,0.0,0.0
+nu-1365,No context.,0.0,0.0
+nu-1366,No context.,0.0,0.0
+nu-1367,No context.,0.0,0.0
+nu-1368,.,0.0,0.0
+nu-1369,No context.,0.0,0.0
+nu-1370,No context.,0.0,0.0
+nu-1371,No context.,0.0,0.0
+nu-1372,No context.,0.0,0.0
+nu-1373,No context.,0.0,0.0
+nu-1374,No context.,0.0,0.0
+nu-1375,.,0.0,0.0
+nu-1376,No context,0.0,0.0
+nu-1377,No context.,0.0,0.0
+nu-1378,No context.,0.0,0.0
+nu-1379,No context.,0.0,0.0
+nu-1380,No context.,0.0,0.0
+nu-1381,No context.,0.0,0.0
+nu-1382,No context,0.0,0.0
+nu-1383,No context.,0.0,0.0
+nu-1384,No context.,0.0,0.0
+nu-1385,No context.,0.0,0.0
+nu-1386,No context.,66.66666666666666,0.0
+nu-1387,.,0.0,0.0
+nu-1388,.,0.0,0.0
+nu-1389,.,0.0,0.0
+nu-1390,No context.,0.0,0.0
+nu-1391,No context.,0.0,0.0
+nu-1392,No context.,0.0,0.0
+nu-1393,No context.,0.0,0.0
+nu-1394,No context.,0.0,0.0
+nu-1395,No context.,0.0,0.0
+nu-1396,.,0.0,0.0
+nu-1397,.,0.0,0.0
+nu-1398,.,0.0,0.0
+nu-1399,No context.,0.0,0.0
+nu-1400,.,0.0,0.0
+nu-1401,No context.,0.0,0.0
+nu-1402,.,0.0,0.0
+nu-1403,.,0.0,0.0
+nu-1404,No context.,0.0,0.0
+nu-1405,.,0.0,0.0
+nu-1406,No context.,0.0,0.0
+nu-1407,No context.,0.0,0.0
+nu-1409,No context.,0.0,0.0
+nu-1410,No context.,0.0,0.0
+nu-1411,.,0.0,0.0
+nu-1412,.,0.0,0.0
+nu-1413,.,0.0,0.0
+nu-1414,No context.,0.0,0.0
+nu-1415,No context.,0.0,0.0
+nu-1416,.,0.0,0.0
+nu-1417,No context.,0.0,0.0
+nu-1418,No context.,0.0,0.0
+nu-1419,.,0.0,0.0
+nu-1420,No context.,0.0,0.0
+nu-1421,No context.,0.0,0.0
+nu-1422,No context.,0.0,0.0
+nu-1423,No context.,0.0,0.0
+nu-1424,No context.,0.0,0.0
+nu-1425,.,0.0,0.0
+nu-1426,No context.,0.0,0.0
+nu-1427,.,0.0,0.0
+nu-1428,No context.,0.0,0.0
+nu-1429,No context.,0.0,0.0
+nu-1430,No context.,0.0,0.0
+nu-1431,No context.,0.0,0.0
+nu-1432,No context.,0.0,0.0
+nu-1433,No context.,0.0,0.0
+nu-1434,No context.,0.0,0.0
+nu-1435,No context.,0.0,0.0
+nu-1436,No context.,0.0,0.0
+nu-1437,No context,0.0,0.0
+nu-1438,No context.,0.0,0.0
+nu-1439,No context.,0.0,0.0
+nu-1440,No context.,0.0,0.0
+nu-1441,No context.,0.0,0.0
+nu-1442,No context.,0.0,0.0
+nu-1444,No context.,0.0,0.0
+nu-1445,No context.,0.0,0.0
+nu-1446,.,0.0,0.0
+nu-1447,.,0.0,0.0
+nu-1448,No context.,0.0,0.0
+nu-1449,No context.,0.0,0.0
+nu-1450,No context.,0.0,0.0
+nu-1451,No context.,0.0,0.0
+nu-1452,.,0.0,0.0
+nu-1453,No context.,0.0,0.0
+nu-1454,No context.,0.0,0.0
+nu-1455,No context.,0.0,0.0
+nu-1456,No context.,0.0,0.0
+nu-1457,.,0.0,0.0
+nu-1458,No context.,0.0,0.0
+nu-1459,No context.,0.0,0.0
+nu-1460,No context.,0.0,0.0
+nu-1461,No context.,0.0,0.0
+nu-1462,No context.,0.0,0.0
+nu-1463,No context.,0.0,0.0
+nu-1464,No context.,0.0,0.0
+nu-1465,No context,0.0,0.0
+nu-1466,No context.,0.0,0.0
+nu-1467,.,0.0,0.0
+nu-1468,No context.,0.0,0.0
+nu-1469,.,0.0,0.0
+nu-1470,No context.,0.0,0.0
+nu-1471,No context.,0.0,0.0
+nu-1472,No context.,0.0,0.0
+nu-1473,.,0.0,0.0
+nu-1474,No context.,0.0,0.0
+nu-1475,.,0.0,0.0
+nu-1476,No context.,0.0,0.0
+nu-1477,.,0.0,0.0
+nu-1478,No context.,0.0,0.0
+nu-1479,No context.,0.0,0.0
+nu-1480,.,0.0,0.0
+nu-1481,No context.,0.0,0.0
+nu-1482,No context.,0.0,0.0
+nu-1483,No context.,0.0,0.0
+nu-1484,No context.,0.0,0.0
+nu-1485,No context.,0.0,0.0
+nu-1486,.,0.0,0.0
+nu-1487,.,0.0,0.0
+nu-1488,.,0.0,0.0
+nu-1489,.,0.0,0.0
+nu-1490,No context.,0.0,0.0
+nu-1491,No context.,0.0,0.0
+nu-1492,No context.,0.0,0.0
+nu-1493,No context.,0.0,0.0
+nu-1494,No context.,0.0,0.0
+nu-1495,No context.,0.0,0.0
+nu-1496,.,0.0,0.0
+nu-1497,No context,0.0,0.0
+nu-1498,No context.,0.0,0.0
+nu-1499,No context.,0.0,0.0
+nu-1500,.,0.0,0.0
+nu-1501,No context.,0.0,0.0
+nu-1502,.,0.0,0.0
+nu-1503,No context.,0.0,0.0
+nu-1504,No context.,0.0,0.0
+nu-1505,No context.,0.0,0.0
+nu-1506,No context.,0.0,0.0
+nu-1507,No context.,0.0,0.0
+nu-1508,No context.,0.0,0.0
+nu-1509,.,0.0,0.0
+nu-1510,No context.,0.0,0.0
+nu-1511,No context.,0.0,0.0
+nu-1512,.,0.0,0.0
+nu-1513,No context.,0.0,0.0
+nu-1514,No context.,0.0,0.0
+nu-1515,No context.,0.0,0.0
+nu-1516,No context,0.0,0.0
+nu-1517,No context.,0.0,0.0
+nu-1518,.,0.0,0.0
+nu-1519,No context.,0.0,0.0
+nu-1520,.,0.0,0.0
+nu-1521,No context.,0.0,0.0
+nu-1522,No context.,0.0,0.0
+nu-1523,.,0.0,0.0
+nu-1524,No context.,0.0,0.0
+nu-1525,No context.,0.0,0.0
+nu-1526,No context.,0.0,0.0
+nu-1527,No context,0.0,0.0
+nu-1528,No context.,0.0,0.0
+nu-1529,No context.,0.0,0.0
+nu-1530,No context.,0.0,0.0
+nu-1531,No context.,0.0,0.0
+nu-1532,.,0.0,0.0
+nu-1533,No context.,0.0,0.0
+nu-1534,No context.,0.0,0.0
+nu-1535,No context.,0.0,0.0
+nu-1536,No context.,0.0,0.0
+nu-1537,No context.,0.0,0.0
+nu-1538,No context.,0.0,0.0
+nu-1539,.,0.0,0.0
+nu-1540,.,0.0,0.0
+nu-1541,No context.,0.0,0.0
+nu-1542,No context.,0.0,0.0
+nu-1543,No context.,0.0,0.0
+nu-1544,No context.,0.0,0.0
+nu-1545,No context.,0.0,0.0
+nu-1546,No context.,0.0,0.0
+nu-1547,No context.,0.0,0.0
+nu-1548,No context.,0.0,0.0
+nu-1549,No context.,0.0,0.0
+nu-1550,.,0.0,0.0
+nu-1551,.,0.0,0.0
+nu-1552,No context.,0.0,0.0
+nu-1553,No context.,0.0,0.0
+nu-1554,No context.,0.0,0.0
+nu-1555,No context.,0.0,0.0
+nu-1556,No context.,0.0,0.0
+nu-1557,.,0.0,0.0
+nu-1558,No context.,0.0,0.0
+nu-1559,.,0.0,0.0
+nu-1560,No context.,0.0,0.0
+nu-1561,No context.,0.0,0.0
+nu-1562,No context,0.0,0.0
+nu-1563,.,0.0,0.0
+nu-1564,No context.,0.0,0.0
+nu-1565,.,0.0,0.0
+nu-1566,.,0.0,0.0
+nu-1567,No context.,0.0,0.0
+nu-1568,No context.,0.0,0.0
+nu-1569,No context.,0.0,0.0
+nu-1570,.,0.0,0.0
+nu-1571,No context.,0.0,0.0
+nu-1572,No context,0.0,0.0
+nu-1573,No context.,0.0,0.0
+nu-1574,No context.,0.0,0.0
+nu-1575,No context.,0.0,0.0
+nu-1576,No context.,0.0,0.0
+nu-1577,.,0.0,0.0
+nu-1578,No context.,0.0,0.0
+nu-1579,.,0.0,0.0
+nu-1580,No context.,0.0,0.0
+nu-1581,No context.,0.0,0.0
+nu-1582,No context.,0.0,0.0
+nu-1583,No context.,0.0,0.0
+nu-1584,No context.,0.0,0.0
+nu-1585,No context.,0.0,0.0
+nu-1586,No context.,0.0,0.0
+nu-1587,No context.,0.0,0.0
+nu-1588,No context.,0.0,0.0
+nu-1589,.,0.0,0.0
+nu-1590,.,0.0,0.0
+nu-1591,.,0.0,0.0
+nu-1592,No context.,0.0,0.0
+nu-1593,.,0.0,0.0
+nu-1594,No context.,0.0,0.0
+nu-1595,No context.,0.0,0.0
+nu-1596,.,0.0,0.0
+nu-1597,No context.,0.0,0.0
+nu-1598,No context.,0.0,0.0
+nu-1599,.,0.0,0.0
+nu-1600,No context,0.0,0.0
+nu-1601,No context.,0.0,0.0
+nu-1602,No context.,0.0,0.0
+nu-1603,.,0.0,0.0
+nu-1604,No context.,0.0,0.0
+nu-1605,No context.,0.0,0.0
+nu-1606,No context.,0.0,0.0
+nu-1607,No context,0.0,0.0
+nu-1608,No context.,0.0,0.0
+nu-1609,No context.,0.0,0.0
+nu-1610,No context.,0.0,0.0
+nu-1611,No context.,0.0,0.0
+nu-1612,No context.,0.0,0.0
+nu-1613,No context.,0.0,0.0
+nu-1614,No context.,66.66666666666666,0.0
+nu-1615,.,0.0,0.0
+nu-1616,No context.,0.0,0.0
+nu-1617,.,0.0,0.0
+nu-1618,No context.,0.0,0.0
+nu-1619,No context.,0.0,0.0
+nu-1620,No context.,0.0,0.0
+nu-1621,No context.,0.0,0.0
+nu-1622,No context.,0.0,0.0
+nu-1623,No context.,0.0,0.0
+nu-1624,.,0.0,0.0
+nu-1625,No context.,0.0,0.0
+nu-1626,No context.,0.0,0.0
+nu-1627,No context.,0.0,0.0
+nu-1628,.,0.0,0.0
+nu-1629,No context.,0.0,0.0
+nu-1630,.,0.0,0.0
+nu-1631,.,0.0,0.0
+nu-1632,No context.,0.0,0.0
+nu-1633,.,0.0,0.0
+nu-1634,No context.,0.0,0.0
+nu-1635,No context.,0.0,0.0
+nu-1636,No context,0.0,0.0
+nu-1637,.,0.0,0.0
+nu-1638,No context.,0.0,0.0
+nu-1639,.,0.0,0.0
+nu-1640,No context.,0.0,0.0
+nu-1641,No context.,0.0,0.0
+nu-1642,No context.,0.0,0.0
+nu-1643,No context.,0.0,0.0
+nu-1644,No context,0.0,0.0
+nu-1645,.,0.0,0.0
+nu-1646,No context.,0.0,0.0
+nu-1647,.,0.0,0.0
+nu-1648,No context.,0.0,0.0
+nu-1649,No context.,0.0,0.0
+nu-1650,No context.,0.0,0.0
+nu-1651,No context.,0.0,0.0
+nu-1652,No context.,0.0,0.0
+nu-1653,No context.,0.0,0.0
+nu-1654,No context.,0.0,0.0
+nu-1655,No context.,0.0,0.0
+nu-1656,No context.,0.0,0.0
+nu-1657,.,0.0,0.0
+nu-1658,.,0.0,0.0
+nu-1659,No context,0.0,0.0
+nu-1660,No context.,0.0,0.0
+nu-1661,.,0.0,0.0
+nu-1662,No context.,0.0,0.0
+nu-1663,No context.,0.0,0.0
+nu-1664,.,0.0,0.0
+nu-1665,No context.,0.0,0.0
+nu-1666,No context.,0.0,0.0
+nu-1667,.,0.0,0.0
+nu-1668,No context.,0.0,0.0
+nu-1669,No context.,0.0,0.0
+nu-1670,.,0.0,0.0
+nu-1671,No context.,0.0,0.0
+nu-1672,No context.,0.0,0.0
+nu-1673,No context.,0.0,0.0
+nu-1674,No context.,0.0,0.0
+nu-1675,No context.,66.66666666666666,0.0
+nu-1676,No context.,0.0,0.0
+nu-1677,No context.,0.0,0.0
+nu-1678,No context.,0.0,0.0
+nu-1679,No context.,0.0,0.0
+nu-1680,.,0.0,0.0
+nu-1681,No context.,0.0,0.0
+nu-1682,.,0.0,0.0
+nu-1683,No context.,0.0,0.0
+nu-1684,No context.,0.0,0.0
+nu-1685,No context.,0.0,0.0
+nu-1686,No context.,0.0,0.0
+nu-1687,.,0.0,0.0
+nu-1688,.,0.0,0.0
+nu-1689,No context.,0.0,0.0
+nu-1690,.,0.0,0.0
+nu-1691,No context.,0.0,0.0
+nu-1692,No context.,0.0,0.0
+nu-1693,No context.,0.0,0.0
+nu-1694,.,0.0,0.0
+nu-1695,No context,0.0,0.0
+nu-1696,No context.,0.0,0.0
+nu-1697,No context.,0.0,0.0
+nu-1698,No context.,0.0,0.0
+nu-1699,.,0.0,0.0
+nu-1700,No context.,0.0,0.0
+nu-1701,No context.,0.0,0.0
+nu-1702,No context.,0.0,0.0
+nu-1703,No context.,0.0,0.0
+nu-1704,No context.,0.0,0.0
+nu-1705,No context,0.0,0.0
+nu-1706,No context.,0.0,0.0
+nu-1707,No context.,0.0,0.0
+nu-1708,.,0.0,0.0
+nu-1709,No context.,0.0,0.0
+nu-1710,.,0.0,0.0
+nu-1711,No context.,0.0,0.0
+nu-1712,.,0.0,0.0
+nu-1713,No context.,0.0,0.0
+nu-1714,No context.,0.0,0.0
+nu-1715,.,0.0,0.0
+nu-1716,.,0.0,0.0
+nu-1717,.,0.0,0.0
+nu-1718,No context.,0.0,0.0
+nu-1719,No context.,0.0,0.0
+nu-1720,No context.,0.0,0.0
+nu-1721,No context.,0.0,0.0
+nu-1722,No context.,0.0,0.0
+nu-1723,No context.,0.0,0.0
+nu-1724,No context.,0.0,0.0
+nu-1725,.,0.0,0.0
+nu-1726,.,0.0,0.0
+nu-1727,.,0.0,0.0
+nu-1728,.,0.0,0.0
+nu-1729,No context.,0.0,0.0
+nu-1730,No context.,0.0,0.0
+nu-1731,No context.,0.0,0.0
+nu-1732,No context.,0.0,0.0
+nu-1733,.,0.0,0.0
+nu-1734,.,0.0,0.0
+nu-1735,.,0.0,0.0
+nu-1736,No context.,0.0,0.0
+nu-1737,No context.,0.0,0.0
+nu-1738,No context.,0.0,0.0
+nu-1739,No context.,0.0,0.0
+nu-1740,.,0.0,0.0
+nu-1741,No context.,0.0,0.0
+nu-1742,.,0.0,0.0
+nu-1743,.,0.0,0.0
+nu-1744,.,0.0,0.0
+nu-1745,.,0.0,0.0
+nu-1746,No context.,0.0,0.0
+nu-1747,No context,0.0,0.0
+nu-1748,No context.,0.0,0.0
+nu-1749,No context.,0.0,0.0
+nu-1750,.,0.0,0.0
+nu-1751,.,0.0,0.0
+nu-1752,No context,0.0,0.0
+nu-1753,.,0.0,0.0
+nu-1754,No context.,0.0,0.0
+nu-1755,.,0.0,0.0
+nu-1756,No context.,0.0,0.0
+nu-1757,No context.,0.0,0.0
+nu-1758,No context.,0.0,0.0
+nu-1759,No context.,0.0,0.0
+nu-1760,No context.,0.0,0.0
+nu-1761,.,0.0,0.0
+nu-1762,.,0.0,0.0
+nu-1763,No context.,0.0,0.0
+nu-1764,.,0.0,0.0
+nu-1765,No context.,0.0,0.0
+nu-1766,No context.,0.0,0.0
+nu-1767,.,0.0,0.0
+nu-1768,No context.,0.0,0.0
+nu-1769,No context.,0.0,0.0
+nu-1770,No context.,0.0,0.0
+nu-1771,.,0.0,0.0
+nu-1772,No context.,0.0,0.0
+nu-1773,.,0.0,0.0
+nu-1774,No context.,0.0,0.0
+nu-1775,No context.,0.0,0.0
+nu-1776,No context.,0.0,0.0
+nu-1778,.,0.0,0.0
+nu-1779,.,0.0,0.0
+nu-1780,No context.,0.0,0.0
+nu-1781,.,0.0,0.0
+nu-1782,No context.,0.0,0.0
+nu-1783,No context.,0.0,0.0
+nu-1784,No context.,0.0,0.0
+nu-1785,.,0.0,0.0
+nu-1786,.,0.0,0.0
+nu-1787,No context.,0.0,0.0
+nu-1788,.,0.0,0.0
+nu-1789,No context.,0.0,0.0
+nu-1790,No context.,0.0,0.0
+nu-1791,No context.,0.0,0.0
+nu-1792,No context.,0.0,0.0
+nu-1793,.,0.0,0.0
+nu-1794,No context,0.0,0.0
+nu-1795,No context.,0.0,0.0
+nu-1796,No context.,0.0,0.0
+nu-1797,No context.,0.0,0.0
+nu-1798,No context.,0.0,0.0
+nu-1799,No context.,0.0,0.0
+nu-1800,No context,0.0,0.0
+nu-1801,.,0.0,0.0
+nu-1802,No context.,0.0,0.0
+nu-1803,.,0.0,0.0
+nu-1804,No context.,0.0,0.0
+nu-1805,.,0.0,0.0
+nu-1806,No context.,0.0,0.0
+nu-1807,No context.,0.0,0.0
+nu-1808,No context.,0.0,0.0
+nu-1809,No context.,0.0,0.0
+nu-1810,.,0.0,0.0
+nu-1811,No context.,0.0,0.0
+nu-1812,No context.,0.0,0.0
+nu-1813,No context.,0.0,0.0
+nu-1814,No context,0.0,0.0
+nu-1815,.,0.0,0.0
+nu-1816,.,0.0,0.0
+nu-1817,No context.,0.0,0.0
+nu-1818,No context.,0.0,0.0
+nu-1819,No context.,0.0,0.0
+nu-1820,.,0.0,0.0
+nu-1821,No context,0.0,0.0
+nu-1822,No context.,0.0,0.0
+nu-1823,.,0.0,0.0
+nu-1824,No context.,0.0,0.0
+nu-1825,No context.,0.0,0.0
+nu-1826,No context.,0.0,0.0
+nu-1827,.,0.0,0.0
+nu-1828,.,0.0,0.0
+nu-1829,No context.,0.0,0.0
+nu-1830,.,0.0,0.0
+nu-1831,No context.,0.0,0.0
+nu-1832,No context.,0.0,0.0
+nu-1833,No context.,0.0,0.0
+nu-1834,No context.,0.0,0.0
+nu-1835,No context.,0.0,0.0
+nu-1836,No context.,66.66666666666666,0.0
+nu-1837,No context.,0.0,0.0
+nu-1838,No context.,0.0,0.0
+nu-1839,.,0.0,0.0
+nu-1840,No context.,0.0,0.0
+nu-1841,No context,0.0,0.0
+nu-1842,No context.,0.0,0.0
+nu-1843,No context.,0.0,0.0
+nu-1844,No context.,0.0,0.0
+nu-1845,No context.,0.0,0.0
+nu-1846,No context.,0.0,0.0
+nu-1847,No context.,0.0,0.0
+nu-1848,No context.,0.0,0.0
+nu-1849,No context.,0.0,0.0
+nu-1850,No context.,0.0,0.0
+nu-1851,No context.,0.0,0.0
+nu-1852,.,0.0,0.0
+nu-1853,No context.,0.0,0.0
+nu-1854,No context.,0.0,0.0
+nu-1855,No context.,0.0,0.0
+nu-1856,.,0.0,0.0
+nu-1857,No context.,0.0,0.0
+nu-1858,.,0.0,0.0
+nu-1859,.,0.0,0.0
+nu-1860,No context.,0.0,0.0
+nu-1861,No context.,0.0,0.0
+nu-1862,No context.,0.0,0.0
+nu-1863,.,0.0,0.0
+nu-1864,No context.,0.0,0.0
+nu-1865,No context.,0.0,0.0
+nu-1866,No context.,0.0,0.0
+nu-1867,No context.,0.0,0.0
+nu-1868,.,0.0,0.0
+nu-1869,.,0.0,0.0
+nu-1870,No context.,0.0,0.0
+nu-1871,No context.,0.0,0.0
+nu-1872,No context.,0.0,0.0
+nu-1873,No context.,0.0,0.0
+nu-1874,No context.,0.0,0.0
+nu-1875,No context.,0.0,0.0
+nu-1876,No context.,0.0,0.0
+nu-1877,.,0.0,0.0
+nu-1878,No context.,0.0,0.0
+nu-1879,No context.,0.0,0.0
+nu-1880,.,0.0,0.0
+nu-1881,.,0.0,0.0
+nu-1882,No context.,0.0,0.0
+nu-1883,No context.,0.0,0.0
+nu-1884,No context.,0.0,0.0
+nu-1885,No context.,0.0,0.0
+nu-1886,.,0.0,0.0
+nu-1887,No context.,0.0,0.0
+nu-1888,No context.,0.0,0.0
+nu-1889,No context.,0.0,0.0
+nu-1890,No context.,0.0,0.0
+nu-1891,No context.,0.0,0.0
+nu-1892,.,0.0,0.0
+nu-1893,No context.,0.0,0.0
+nu-1894,No context.,0.0,0.0
+nu-1895,No context.,0.0,0.0
+nu-1896,No context,0.0,0.0
+nu-1897,No context.,0.0,0.0
+nu-1898,No context.,0.0,0.0
+nu-1899,No context,0.0,0.0
+nu-1900,No context.,0.0,0.0
+nu-1901,No context.,0.0,0.0
+nu-1902,No context.,0.0,0.0
+nu-1903,.,0.0,0.0
+nu-1904,.,0.0,0.0
+nu-1905,No context.,0.0,0.0
+nu-1906,No context.,0.0,0.0
+nu-1907,.,0.0,0.0
+nu-1908,No context.,0.0,0.0
+nu-1909,No context.,0.0,0.0
+nu-1910,No context.,0.0,0.0
+nu-1911,No context.,0.0,0.0
+nu-1912,No context.,0.0,0.0
+nu-1913,No context.,0.0,0.0
+nu-1914,No context.,0.0,0.0
+nu-1915,No context.,0.0,0.0
+nu-1916,No context.,0.0,0.0
+nu-1917,No context.,0.0,0.0
+nu-1918,No context.,0.0,0.0
+nu-1919,.,0.0,0.0
+nu-1920,No context.,0.0,0.0
+nu-1921,.,0.0,0.0
+nu-1922,.,0.0,0.0
+nu-1923,No context.,0.0,0.0
+nu-1924,No context.,0.0,0.0
+nu-1925,No context.,0.0,0.0
+nu-1926,No context.,0.0,0.0
+nu-1927,No context.,0.0,0.0
+nu-1928,No context.,0.0,0.0
+nu-1929,No context.,0.0,0.0
+nu-1930,No context.,0.0,0.0
+nu-1931,No context.,0.0,0.0
+nu-1932,No context.,0.0,0.0
+nu-1933,No context.,0.0,0.0
+nu-1934,.,0.0,0.0
+nu-1935,No context.,0.0,0.0
+nu-1936,No context.,0.0,0.0
+nu-1937,No context.,0.0,0.0
+nu-1938,No context.,0.0,0.0
+nu-1939,No context.,0.0,0.0
+nu-1940,No context.,0.0,0.0
+nu-1941,No context.,0.0,0.0
+nu-1942,.,0.0,0.0
+nu-1943,.,0.0,0.0
+nu-1944,.,0.0,0.0
+nu-1945,No context.,0.0,0.0
+nu-1946,No context.,0.0,0.0
+nu-1947,.,0.0,0.0
+nu-1948,.,0.0,0.0
+nu-1949,.,0.0,0.0
+nu-1950,No context.,0.0,0.0
+nu-1951,No context.,0.0,0.0
+nu-1952,.,0.0,0.0
+nu-1953,.,0.0,0.0
+nu-1954,No context.,0.0,0.0
+nu-1955,No context.,0.0,0.0
+nu-1956,No context.,0.0,0.0
+nu-1957,No context.,0.0,0.0
+nu-1958,No context.,0.0,0.0
+nu-1959,No context.,0.0,0.0
+nu-1960,No context,0.0,0.0
+nu-1961,No context.,0.0,0.0
+nu-1962,.,0.0,0.0
+nu-1963,.,0.0,0.0
+nu-1964,No context.,0.0,0.0
+nu-1965,.,0.0,0.0
+nu-1966,No context.,0.0,0.0
+nu-1967,No context,0.0,0.0
+nu-1968,No context.,0.0,0.0
+nu-1969,No context.,0.0,0.0
+nu-1970,.,0.0,0.0
+nu-1971,No context,0.0,0.0
+nu-1972,.,0.0,0.0
+nu-1973,.,0.0,0.0
+nu-1974,.,0.0,0.0
+nu-1975,No context.,0.0,0.0
+nu-1976,No context.,0.0,0.0
+nu-1977,No context.,0.0,0.0
+nu-1978,No context.,0.0,0.0
+nu-1979,.,0.0,0.0
+nu-1980,.,0.0,0.0
+nu-1981,.,0.0,0.0
+nu-1982,No context.,0.0,0.0
+nu-1983,.,0.0,0.0
+nu-1984,No context,0.0,0.0
+nu-1985,.,0.0,0.0
+nu-1986,.,0.0,0.0
+nu-1987,.,0.0,0.0
+nu-1988,.,0.0,0.0
+nu-1989,No context.,0.0,0.0
+nu-1990,No context.,0.0,0.0
+nu-1991,No context.,0.0,0.0
+nu-1992,No context.,0.0,0.0
+nu-1993,No context.,0.0,0.0
+nu-1994,.,0.0,0.0
+nu-1995,.,0.0,0.0
+nu-1996,No context.,0.0,0.0
+nu-1997,.,0.0,0.0
+nu-1998,No context.,0.0,0.0
+nu-1999,No context.,0.0,0.0
+nu-2000,.,0.0,0.0
+nu-2001,.,0.0,0.0
+nu-2002,.,0.0,0.0
+nu-2003,No context.,0.0,0.0
+nu-2004,.,0.0,0.0
+nu-2005,.,0.0,0.0
+nu-2006,No context.,0.0,0.0
+nu-2007,No context,0.0,0.0
+nu-2008,No context.,0.0,0.0
+nu-2009,No context.,0.0,0.0
+nu-2010,No context.,0.0,0.0
+nu-2011,No context,0.0,0.0
+nu-2012,.,0.0,0.0
+nu-2013,No context.,0.0,0.0
+nu-2014,No context.,0.0,0.0
+nu-2015,.,0.0,0.0
+nu-2016,No context.,0.0,0.0
+nu-2017,No context.,0.0,0.0
+nu-2018,No context.,66.66666666666666,0.0
+nu-2019,No context.,0.0,0.0
+nu-2020,No context.,0.0,0.0
+nu-2021,No context.,0.0,0.0
+nu-2022,No context.,0.0,0.0
+nu-2023,No context.,0.0,0.0
+nu-2024,No context.,0.0,0.0
+nu-2025,No context.,0.0,0.0
+nu-2026,No context.,0.0,0.0
+nu-2027,.,0.0,0.0
+nu-2028,No context.,0.0,0.0
+nu-2029,No context.,0.0,0.0
+nu-2030,No context.,0.0,0.0
+nu-2031,No context.,0.0,0.0
+nu-2032,No context.,0.0,0.0
+nu-2033,No context.,0.0,0.0
+nu-2034,No context.,0.0,0.0
+nu-2035,No context.,0.0,0.0
+nu-2036,No context.,0.0,0.0
+nu-2037,No context,0.0,0.0
+nu-2038,No context.,0.0,0.0
+nu-2039,No context.,0.0,0.0
+nu-2040,No context,0.0,0.0
+nu-2041,.,0.0,0.0
+nu-2042,No context.,0.0,0.0
+nu-2043,No context.,0.0,0.0
+nu-2044,No context.,0.0,0.0
+nu-2045,.,0.0,0.0
+nu-2046,No context.,0.0,0.0
+nu-2047,No context.,66.66666666666666,0.0
+nu-2048,No context.,0.0,0.0
+nu-2049,.,0.0,0.0
+nu-2050,No context,0.0,0.0
+nu-2051,No context.,0.0,0.0
+nu-2052,No context.,0.0,0.0
+nu-2053,No context.,0.0,0.0
+nu-2054,.,0.0,0.0
+nu-2055,No context.,0.0,0.0
+nu-2056,.,0.0,0.0
+nu-2057,.,0.0,0.0
+nu-2058,No context.,0.0,0.0
+nu-2059,.,0.0,0.0
+nu-2060,No context.,0.0,0.0
+nu-2061,No context.,0.0,0.0
+nu-2062,No context.,0.0,0.0
+nu-2063,No context.,0.0,0.0
+nu-2064,No context.,0.0,0.0
+nu-2065,No context.,0.0,0.0
+nu-2066,.,0.0,0.0
+nu-2067,No context.,0.0,0.0
+nu-2068,No context.,0.0,0.0
+nu-2069,No context.,0.0,0.0
+nu-2070,.,0.0,0.0
+nu-2071,No context.,0.0,0.0
+nu-2072,No context.,0.0,0.0
+nu-2073,No context.,0.0,0.0
+nu-2074,.,0.0,0.0
+nu-2075,.,0.0,0.0
+nu-2076,No context.,0.0,0.0
+nu-2077,No context.,0.0,0.0
+nu-2078,No context.,0.0,0.0
+nu-2079,No context.,0.0,0.0
+nu-2080,.,0.0,0.0
+nu-2081,.,0.0,0.0
+nu-2082,.,0.0,0.0
+nu-2083,.,0.0,0.0
+nu-2084,.,0.0,0.0
+nu-2085,No context.,0.0,0.0
+nu-2086,No context.,0.0,0.0
+nu-2087,.,0.0,0.0
+nu-2088,No context,0.0,0.0
+nu-2089,.,0.0,0.0
+nu-2090,.,0.0,0.0
+nu-2091,.,0.0,0.0
+nu-2092,No context.,0.0,0.0
+nu-2093,No context.,0.0,0.0
+nu-2094,No context.,0.0,0.0
+nu-2095,.,0.0,0.0
+nu-2096,No context.,0.0,0.0
+nu-2097,No context.,0.0,0.0
+nu-2098,No context.,0.0,0.0
+nu-2099,No context.,0.0,0.0
+nu-2100,.,0.0,0.0
+nu-2101,No context.,0.0,0.0
+nu-2102,No context.,0.0,0.0
+nu-2103,No context.,0.0,0.0
+nu-2104,No context.,0.0,0.0
+nu-2105,No context.,0.0,0.0
+nu-2106,No context.,0.0,0.0
+nu-2107,No context.,0.0,0.0
+nu-2108,No context.,0.0,0.0
+nu-2109,.,0.0,0.0
+nu-2110,No context.,0.0,0.0
+nu-2111,No context.,0.0,0.0
+nu-2112,No context,0.0,0.0
+nu-2113,No context.,0.0,0.0
+nu-2114,No context.,0.0,0.0
+nu-2115,.,0.0,0.0
+nu-2116,No context.,0.0,0.0
+nu-2117,No context.,0.0,0.0
+nu-2118,.,0.0,0.0
+nu-2119,No context.,0.0,0.0
+nu-2120,No context,0.0,0.0
+nu-2121,No context.,0.0,0.0
+nu-2122,No context.,0.0,0.0
+nu-2123,No context.,0.0,0.0
+nu-2124,.,0.0,0.0
+nu-2125,No context.,0.0,0.0
+nu-2126,No context.,0.0,0.0
+nu-2127,No context.,0.0,0.0
+nu-2128,No context.,0.0,0.0
+nu-2129,No context.,0.0,0.0
+nu-2130,No context.,0.0,0.0
+nu-2131,.,0.0,0.0
+nu-2132,No context.,0.0,0.0
+nu-2133,.,0.0,0.0
+nu-2134,No context.,0.0,0.0
+nu-2135,.,0.0,0.0
+nu-2136,.,0.0,0.0
+nu-2137,No context.,0.0,0.0
+nu-2138,.,0.0,0.0
+nu-2139,No context.,0.0,0.0
+nu-2140,No context.,0.0,0.0
+nu-2141,.,0.0,0.0
+nu-2142,No context.,0.0,0.0
+nu-2143,No context,0.0,0.0
+nu-2144,No context.,0.0,0.0
+nu-2145,.,0.0,0.0
+nu-2146,.,0.0,0.0
+nu-2147,No context.,0.0,0.0
+nu-2148,.,0.0,0.0
+nu-2149,.,0.0,0.0
+nu-2150,No context.,0.0,0.0
+nu-2151,No context.,0.0,0.0
+nu-2152,No context.,0.0,0.0
+nu-2153,No context.,0.0,0.0
+nu-2154,No context.,0.0,0.0
+nu-2155,No context.,0.0,0.0
+nu-2156,No context.,0.0,0.0
+nu-2157,No context,0.0,0.0
+nu-2158,No context,0.0,0.0
+nu-2159,.,0.0,0.0
+nu-2160,No context.,0.0,0.0
+nu-2161,No context.,0.0,0.0
+nu-2162,No context.,0.0,0.0
+nu-2163,.,0.0,0.0
+nu-2164,No context.,0.0,0.0
+nu-2165,No context.,0.0,0.0
+nu-2166,No context.,0.0,0.0
+nu-2167,No context.,0.0,0.0
+nu-2168,No context.,0.0,0.0
+nu-2169,No context.,0.0,0.0
+nu-2170,.,0.0,0.0
+nu-2171,No context.,0.0,0.0
+nu-2172,No context.,0.0,0.0
+nu-2173,No context.,0.0,0.0
+nu-2174,No context.,0.0,0.0
+nu-2175,No context.,0.0,0.0
+nu-2176,.,0.0,0.0
+nu-2177,No context.,0.0,0.0
+nu-2178,.,0.0,0.0
+nu-2179,No context.,0.0,0.0
+nu-2180,No context.,0.0,0.0
+nu-2181,.,0.0,0.0
+nu-2182,No context,0.0,0.0
+nu-2183,No context.,0.0,0.0
+nu-2184,No context.,0.0,0.0
+nu-2185,No context.,0.0,0.0
+nu-2186,No context.,0.0,0.0
+nu-2187,.,0.0,0.0
+nu-2188,No context.,0.0,0.0
+nu-2189,No context.,0.0,0.0
+nu-2190,No context.,0.0,0.0
+nu-2191,No context.,0.0,0.0
+nu-2192,No context.,0.0,0.0
+nu-2193,.,0.0,0.0
+nu-2194,.,0.0,0.0
+nu-2195,.,0.0,0.0
+nu-2196,No context.,66.66666666666666,0.0
+nu-2197,.,0.0,0.0
+nu-2198,No context.,0.0,0.0
+nu-2199,No context.,0.0,0.0
+nu-2200,.,0.0,0.0
+nu-2201,No context.,0.0,0.0
+nu-2202,.,0.0,0.0
+nu-2203,No context.,0.0,0.0
+nu-2204,.,0.0,0.0
+nu-2205,No context.,0.0,0.0
+nu-2206,No context.,0.0,0.0
+nu-2207,No context.,0.0,0.0
+nu-2208,No context.,0.0,0.0
+nu-2209,.,0.0,0.0
+nu-2210,No context.,0.0,0.0
+nu-2211,No context.,0.0,0.0
+nu-2212,No context.,0.0,0.0
+nu-2213,No context.,0.0,0.0
+nu-2214,No context.,0.0,0.0
+nu-2215,.,0.0,0.0
+nu-2216,No context.,0.0,0.0
+nu-2217,No context.,0.0,0.0
+nu-2218,No context.,0.0,0.0
+nu-2219,.,0.0,0.0
+nu-2220,No context,0.0,0.0
+nu-2221,No context.,0.0,0.0
+nu-2222,No context.,0.0,0.0
+nu-2223,No context,0.0,0.0
+nu-2224,No context.,0.0,0.0
+nu-2225,No context.,0.0,0.0
+nu-2226,No context.,0.0,0.0
+nu-2227,No context.,0.0,0.0
+nu-2228,No context.,0.0,0.0
+nu-2229,No context.,0.0,0.0
+nu-2230,No context.,0.0,0.0
+nu-2231,No context.,0.0,0.0
+nu-2232,.,0.0,0.0
+nu-2233,No context.,0.0,0.0
+nu-2234,.,0.0,0.0
+nu-2235,.,0.0,0.0
+nu-2236,.,0.0,0.0
+nu-2237,No context.,0.0,0.0
+nu-2238,No context.,0.0,0.0
+nu-2239,No context.,0.0,0.0
+nu-2240,.,0.0,0.0
+nu-2241,.,0.0,0.0
+nu-2242,No context.,0.0,0.0
+nu-2243,No context.,66.66666666666666,0.0
+nu-2244,No context.,0.0,0.0
+nu-2245,No context.,0.0,0.0
+nu-2246,.,0.0,0.0
+nu-2247,No context.,0.0,0.0
+nu-2248,No context.,0.0,0.0
+nu-2249,.,0.0,0.0
+nu-2250,No context.,0.0,0.0
+nu-2251,.,0.0,0.0
+nu-2252,No context.,0.0,0.0
+nu-2253,No context.,0.0,0.0
+nu-2254,.,0.0,0.0
+nu-2255,.,0.0,0.0
+nu-2256,No context.,0.0,0.0
+nu-2257,No context.,0.0,0.0
+nu-2258,.,0.0,0.0
+nu-2259,No context.,0.0,0.0
+nu-2260,.,0.0,0.0
+nu-2261,No context.,0.0,0.0
+nu-2262,.,0.0,0.0
+nu-2263,No context.,0.0,0.0
+nu-2264,.,0.0,0.0
+nu-2265,No context.,0.0,0.0
+nu-2266,No context.,0.0,0.0
+nu-2267,No context.,0.0,0.0
+nu-2268,No context.,0.0,0.0
+nu-2269,No context.,0.0,0.0
+nu-2270,No context.,0.0,0.0
+nu-2271,No context.,0.0,0.0
+nu-2272,No context.,0.0,0.0
+nu-2273,No context.,0.0,0.0
+nu-2274,No context.,0.0,0.0
+nu-2275,No context.,0.0,0.0
+nu-2276,No context.,0.0,0.0
+nu-2277,No context.,0.0,0.0
+nu-2278,No context.,0.0,0.0
+nu-2279,No context.,0.0,0.0
+nu-2280,No context.,0.0,0.0
+nu-2281,No context.,0.0,0.0
+nu-2282,No context.,0.0,0.0
+nu-2283,No context.,0.0,0.0
+nu-2284,.,0.0,0.0
+nu-2285,No context.,0.0,0.0
+nu-2286,No context.,0.0,0.0
+nu-2287,.,0.0,0.0
+nu-2288,No context.,66.66666666666666,0.0
+nu-2289,No context.,0.0,0.0
+nu-2290,.,0.0,0.0
+nu-2291,No context.,0.0,0.0
+nu-2292,.,0.0,0.0
+nu-2293,No context.,0.0,0.0
+nu-2294,No context.,0.0,0.0
+nu-2295,No context.,0.0,0.0
+nu-2296,No context.,0.0,0.0
+nu-2297,.,0.0,0.0
+nu-2298,No context,0.0,0.0
+nu-2299,No context.,0.0,0.0
+nu-2300,No context.,0.0,0.0
+nu-2301,No context.,0.0,0.0
+nu-2302,No context.,0.0,0.0
+nu-2303,.,0.0,0.0
+nu-2304,.,0.0,0.0
+nu-2305,No context.,0.0,0.0
+nu-2306,No context.,0.0,0.0
+nu-2307,.,0.0,0.0
+nu-2308,No context.,0.0,0.0
+nu-2309,No context.,0.0,0.0
+nu-2310,No context.,0.0,0.0
+nu-2311,No context.,0.0,0.0
+nu-2312,No context.,0.0,0.0
+nu-2313,.,0.0,0.0
+nu-2314,No context.,0.0,0.0
+nu-2315,.,0.0,0.0
+nu-2316,.,0.0,0.0
+nu-2317,No context.,0.0,0.0
+nu-2318,.,0.0,0.0
+nu-2319,.,0.0,0.0
+nu-2320,.,0.0,0.0
+nu-2321,.,0.0,0.0
+nu-2322,No context.,0.0,0.0
+nu-2323,No context.,0.0,0.0
+nu-2324,No context.,0.0,0.0
+nu-2325,No context.,0.0,0.0
+nu-2326,.,0.0,0.0
+nu-2327,.,0.0,0.0
+nu-2328,.,0.0,0.0
+nu-2329,No context.,0.0,0.0
+nu-2330,No context.,0.0,0.0
+nu-2331,No context.,0.0,0.0
+nu-2332,No context.,0.0,0.0
+nu-2333,.,0.0,0.0
+nu-2334,No context.,0.0,0.0
+nu-2335,.,0.0,0.0
+nu-2336,.,0.0,0.0
+nu-2337,No context.,0.0,0.0
+nu-2338,.,0.0,0.0
+nu-2339,No context.,0.0,0.0
+nu-2340,No context.,0.0,0.0
+nu-2341,No context,0.0,0.0
+nu-2342,No context.,0.0,0.0
+nu-2343,No context.,0.0,0.0
+nu-2344,No context.,0.0,0.0
+nu-2345,.,0.0,0.0
+nu-2346,.,0.0,0.0
+nu-2347,No context.,0.0,0.0
+nu-2348,No context.,0.0,0.0
+nu-2349,.,0.0,0.0
+nu-2350,No context.,0.0,0.0
+nu-2351,No context.,0.0,0.0
+nu-2352,No context.,0.0,0.0
+nu-2353,No context.,0.0,0.0
+nu-2354,No context.,0.0,0.0
+nu-2355,No context.,0.0,0.0
+nu-2356,No context.,0.0,0.0
+nu-2357,No context.,0.0,0.0
+nu-2358,.,0.0,0.0
+nu-2359,No context,0.0,0.0
+nu-2360,.,0.0,0.0
+nu-2361,No context,0.0,0.0
+nu-2362,No context.,0.0,0.0
+nu-2363,No context.,0.0,0.0
+nu-2364,No context.,0.0,0.0
+nu-2365,No context.,0.0,0.0
+nu-2366,No context.,0.0,0.0
+nu-2367,.,0.0,0.0
+nu-2368,.,0.0,0.0
+nu-2369,.,0.0,0.0
+nu-2370,No context.,0.0,0.0
+nu-2371,No context.,0.0,0.0
+nu-2372,.,0.0,0.0
+nu-2373,No context.,0.0,0.0
+nu-2374,.,0.0,0.0
+nu-2375,No context.,0.0,0.0
+nu-2376,No context.,0.0,0.0
+nu-2377,No context.,0.0,0.0
+nu-2378,No context.,0.0,0.0
+nu-2379,No context.,0.0,0.0
+nu-2380,No context.,0.0,0.0
+nu-2381,No context.,0.0,0.0
+nu-2382,No context.,0.0,0.0
+nu-2383,.,0.0,0.0
+nu-2384,No context.,0.0,0.0
+nu-2385,No context.,0.0,0.0
+nu-2386,No context.,0.0,0.0
+nu-2387,.,0.0,0.0
+nu-2388,No context,0.0,0.0
+nu-2389,.,0.0,0.0
+nu-2390,.,0.0,0.0
+nu-2391,.,0.0,0.0
+nu-2392,No context.,0.0,0.0
+nu-2393,No context.,0.0,0.0
+nu-2394,.,0.0,0.0
+nu-2395,No context.,0.0,0.0
+nu-2396,No context.,0.0,0.0
+nu-2397,No context.,0.0,0.0
+nu-2398,No context.,0.0,0.0
+nu-2399,No context.,0.0,0.0
+nu-2400,No context.,0.0,0.0
+nu-2401,No context.,0.0,0.0
+nu-2402,No context.,0.0,0.0
+nu-2403,.,0.0,0.0
+nu-2404,No context.,0.0,0.0
+nu-2405,No context,0.0,0.0
+nu-2406,No context.,0.0,0.0
+nu-2407,No context.,0.0,0.0
+nu-2408,No context.,0.0,0.0
+nu-2409,No context.,0.0,0.0
+nu-2410,.,0.0,0.0
+nu-2411,No context.,0.0,0.0
+nu-2412,.,0.0,0.0
+nu-2413,No context.,0.0,0.0
+nu-2414,.,0.0,0.0
+nu-2415,No context.,0.0,0.0
+nu-2416,No context.,0.0,0.0
+nu-2417,No context.,0.0,0.0
+nu-2418,.,0.0,0.0
+nu-2419,No context.,0.0,0.0
+nu-2420,No context,0.0,0.0
+nu-2421,No context.,0.0,0.0
+nu-2422,.,0.0,0.0
+nu-2423,No context.,0.0,0.0
+nu-2424,No context.,0.0,0.0
+nu-2425,No context.,0.0,0.0
+nu-2426,No context.,0.0,0.0
+nu-2427,No context.,0.0,0.0
+nu-2428,No context.,0.0,0.0
+nu-2429,No context.,0.0,0.0
+nu-2430,.,0.0,0.0
+nu-2431,.,0.0,0.0
+nu-2432,No context.,0.0,0.0
+nu-2433,No context.,0.0,0.0
+nu-2434,No context.,0.0,0.0
+nu-2435,.,0.0,0.0
+nu-2436,.,0.0,0.0
+nu-2437,.,0.0,0.0
+nu-2438,No context.,0.0,0.0
+nu-2439,No context.,0.0,0.0
+nu-2440,No context.,0.0,0.0
+nu-2441,No context,66.66666666666666,0.0
+nu-2442,No context.,0.0,0.0
+nu-2443,No context.,0.0,0.0
+nu-2444,.,0.0,0.0
+nu-2445,No context.,0.0,0.0
+nu-2446,No context.,0.0,0.0
+nu-2447,No context.,0.0,0.0
+nu-2448,.,0.0,0.0
+nu-2449,No context.,0.0,0.0
+nu-2450,No context.,0.0,0.0
+nu-2451,No context.,0.0,0.0
+nu-2452,No context.,0.0,0.0
+nu-2453,No context.,0.0,0.0
+nu-2454,No context.,0.0,0.0
+nu-2455,No context.,0.0,0.0
+nu-2456,.,0.0,0.0
+nu-2457,No context.,0.0,0.0
+nu-2458,No context.,0.0,0.0
+nu-2459,.,0.0,0.0
+nu-2460,No context.,0.0,0.0
+nu-2461,.,0.0,0.0
+nu-2462,No context.,0.0,0.0
+nu-2463,No context.,0.0,0.0
+nu-2464,No context.,0.0,0.0
+nu-2465,No context.,0.0,0.0
+nu-2466,No context.,0.0,0.0
+nu-2467,No context.,0.0,0.0
+nu-2468,.,0.0,0.0
+nu-2469,No context.,0.0,0.0
+nu-2470,.,0.0,0.0
+nu-2471,No context.,0.0,0.0
+nu-2472,.,0.0,0.0
+nu-2473,No context.,0.0,0.0
+nu-2474,No context.,66.66666666666666,0.0
+nu-2475,.,0.0,0.0
+nu-2476,No context.,0.0,0.0
+nu-2477,No context.,0.0,0.0
+nu-2479,No context.,0.0,0.0
+nu-2480,No context.,0.0,0.0
+nu-2481,.,0.0,0.0
+nu-2482,.,0.0,0.0
+nu-2483,No context.,0.0,0.0
+nu-2484,No context.,0.0,0.0
+nu-2485,.,0.0,0.0
+nu-2486,No context.,0.0,0.0
+nu-2487,.,0.0,0.0
+nu-2488,No context.,0.0,0.0
+nu-2489,No context.,0.0,0.0
+nu-2490,.,0.0,0.0
+nu-2491,.,0.0,0.0
+nu-2492,No context.,0.0,0.0
+nu-2493,No context.,0.0,0.0
+nu-2494,No context.,0.0,0.0
+nu-2495,.,0.0,0.0
+nu-2496,No context.,0.0,0.0
+nu-2497,No context.,0.0,0.0
+nu-2498,No context.,0.0,0.0
+nu-2499,No context.,0.0,0.0
+nu-2500,No context.,0.0,0.0
+nu-2501,.,0.0,0.0
+nu-2502,No context.,0.0,0.0
+nu-2503,No context.,0.0,0.0
+nu-2504,.,0.0,0.0
+nu-2505,No context.,0.0,0.0
+nu-2506,.,0.0,0.0
+nu-2507,No context.,0.0,0.0
+nu-2508,No context.,0.0,0.0
+nu-2509,.,0.0,0.0
+nu-2510,No context.,0.0,0.0
+nu-2511,No context.,0.0,0.0
+nu-2512,.,0.0,0.0
+nu-2513,No context.,0.0,0.0
+nu-2514,No context.,0.0,0.0
+nu-2515,No context,0.0,0.0
+nu-2516,No context.,0.0,0.0
+nu-2517,No context.,0.0,0.0
+nu-2518,No context.,0.0,0.0
+nu-2519,No context,0.0,0.0
+nu-2520,No context.,0.0,0.0
+nu-2521,No context.,0.0,0.0
+nu-2522,.,0.0,0.0
+nu-2523,No context.,0.0,0.0
+nu-2524,No context.,0.0,0.0
+nu-2525,No context.,0.0,0.0
+nu-2526,No context.,0.0,0.0
+nu-2527,No context,0.0,0.0
+nu-2528,.,0.0,0.0
+nu-2529,.,0.0,0.0
+nu-2530,No context.,0.0,0.0
+nu-2531,No context.,0.0,0.0
+nu-2532,No context.,0.0,0.0
+nu-2533,No context.,0.0,0.0
+nu-2534,No context.,0.0,0.0
+nu-2535,No context,0.0,0.0
+nu-2536,No context.,0.0,0.0
+nu-2537,No context.,0.0,0.0
+nu-2538,No context.,0.0,0.0
+nu-2539,No context.,0.0,0.0
+nu-2540,No context.,0.0,0.0
+nu-2541,No context.,0.0,0.0
+nu-2542,No context.,0.0,0.0
+nu-2543,No context.,0.0,0.0
+nu-2544,No context.,0.0,0.0
+nu-2545,No context.,0.0,0.0
+nu-2546,No context.,0.0,0.0
+nu-2547,.,0.0,0.0
+nu-2548,.,0.0,0.0
+nu-2549,No context.,0.0,0.0
+nu-2550,No context.,0.0,0.0
+nu-2551,No context.,0.0,0.0
+nu-2552,.,0.0,0.0
+nu-2553,No context.,0.0,0.0
+nu-2554,.,0.0,0.0
+nu-2555,No context.,0.0,0.0
+nu-2556,No context.,0.0,0.0
+nu-2557,No context.,0.0,0.0
+nu-2558,.,0.0,0.0
+nu-2559,No context.,0.0,0.0
+nu-2560,No context.,0.0,0.0
+nu-2561,.,0.0,0.0
+nu-2562,No context.,0.0,0.0
+nu-2563,No context.,0.0,0.0
+nu-2564,No context.,0.0,0.0
+nu-2565,No context.,0.0,0.0
+nu-2566,No context,66.66666666666666,0.0
+nu-2567,No context.,0.0,0.0
+nu-2568,.,0.0,0.0
+nu-2569,No context.,0.0,0.0
+nu-2570,No context.,0.0,0.0
+nu-2571,No context.,0.0,0.0
+nu-2572,No context.,0.0,0.0
+nu-2574,No context.,0.0,0.0
+nu-2575,No context.,0.0,0.0
+nu-2576,No context.,0.0,0.0
+nu-2577,No context.,0.0,0.0
+nu-2578,No context,66.66666666666666,0.0
+nu-2579,No context.,0.0,0.0
+nu-2580,No context.,0.0,0.0
+nu-2581,No context.,0.0,0.0
+nu-2582,No context.,0.0,0.0
+nu-2583,No context.,0.0,0.0
+nu-2584,No context.,0.0,0.0
+nu-2585,No context.,0.0,0.0
+nu-2586,No context.,0.0,0.0
+nu-2587,No context.,0.0,0.0
+nu-2588,.,0.0,0.0
+nu-2589,No context.,0.0,0.0
+nu-2590,No context.,0.0,0.0
+nu-2591,No context.,0.0,0.0
+nu-2592,.,0.0,0.0
+nu-2593,No context,0.0,0.0
+nu-2594,No context.,0.0,0.0
+nu-2595,.,0.0,0.0
+nu-2596,.,0.0,0.0
+nu-2597,No context.,0.0,0.0
+nu-2598,No context.,0.0,0.0
+nu-2599,No context.,0.0,0.0
+nu-2600,.,0.0,0.0
+nu-2601,.,0.0,0.0
+nu-2602,.,0.0,0.0
+nu-2603,.,0.0,0.0
+nu-2604,.,0.0,0.0
+nu-2605,No context.,0.0,0.0
+nu-2606,No context.,0.0,0.0
+nu-2607,.,0.0,0.0
+nu-2608,.,0.0,0.0
+nu-2609,No context.,0.0,0.0
+nu-2610,.,0.0,0.0
+nu-2611,No context.,0.0,0.0
+nu-2612,No context.,0.0,0.0
+nu-2613,.,0.0,0.0
+nu-2614,.,0.0,0.0
+nu-2615,No context.,0.0,0.0
+nu-2616,No context.,0.0,0.0
+nu-2617,No context.,0.0,0.0
+nu-2618,No context.,0.0,0.0
+nu-2619,No context.,0.0,0.0
+nu-2620,No context.,0.0,0.0
+nu-2621,No context.,0.0,0.0
+nu-2622,No context.,0.0,0.0
+nu-2623,No context.,0.0,0.0
+nu-2624,No context.,0.0,0.0
+nu-2625,No context.,0.0,0.0
+nu-2626,No context.,0.0,0.0
+nu-2628,No context.,0.0,0.0
+nu-2629,No context.,0.0,0.0
+nu-2630,No context.,0.0,0.0
+nu-2631,No context.,0.0,0.0
+nu-2632,No context.,0.0,0.0
+nu-2633,No context.,0.0,0.0
+nu-2634,No context.,0.0,0.0
+nu-2635,No context,0.0,0.0
+nu-2636,No context.,0.0,0.0
+nu-2637,No context.,0.0,0.0
+nu-2638,No context.,0.0,0.0
+nu-2639,.,0.0,0.0
+nu-2640,No context.,0.0,0.0
+nu-2641,No context.,0.0,0.0
+nu-2642,No context.,0.0,0.0
+nu-2643,No context.,0.0,0.0
+nu-2644,.,0.0,0.0
+nu-2645,.,0.0,0.0
+nu-2646,No context.,0.0,0.0
+nu-2647,No context.,0.0,0.0
+nu-2648,No context.,0.0,0.0
+nu-2649,No context.,0.0,0.0
+nu-2651,No context.,0.0,0.0
+nu-2652,No context.,0.0,0.0
+nu-2653,.,0.0,0.0
+nu-2654,No context.,0.0,0.0
+nu-2655,No context.,0.0,0.0
+nu-2656,No context.,0.0,0.0
+nu-2658,.,0.0,0.0
+nu-2659,No context.,0.0,0.0
+nu-2660,No context.,0.0,0.0
+nu-2661,No context.,0.0,0.0
+nu-2662,No context.,0.0,0.0
+nu-2663,.,0.0,0.0
+nu-2664,No context,0.0,0.0
+nu-2665,.,0.0,0.0
+nu-2666,No context.,0.0,0.0
+nu-2667,No context.,0.0,0.0
+nu-2668,No context.,0.0,0.0
+nu-2669,.,0.0,0.0
+nu-2670,No context.,0.0,0.0
+nu-2671,No context,66.66666666666666,0.0
+nu-2672,No context.,0.0,0.0
+nu-2673,No context.,0.0,0.0
+nu-2674,No context.,0.0,0.0
+nu-2675,No context.,0.0,0.0
+nu-2676,No context,0.0,0.0
+nu-2677,.,0.0,0.0
+nu-2679,No context.,0.0,0.0
+nu-2680,No context.,0.0,0.0
+nu-2681,No context.,0.0,0.0
+nu-2682,No context.,0.0,0.0
+nu-2683,.,0.0,0.0
+nu-2684,No context.,0.0,0.0
+nu-2685,No context.,0.0,0.0
+nu-2686,No context.,0.0,0.0
+nu-2687,No context.,0.0,0.0
+nu-2688,No context.,0.0,0.0
+nu-2689,No context.,0.0,0.0
+nu-2690,No context.,0.0,0.0
+nu-2691,No context.,0.0,0.0
+nu-2692,No context.,0.0,0.0
+nu-2693,No context.,0.0,0.0
+nu-2694,No context.,0.0,0.0
+nu-2695,.,0.0,0.0
+nu-2696,.,0.0,0.0
+nu-2697,.,0.0,0.0
+nu-2698,.,0.0,0.0
+nu-2699,No context.,0.0,0.0
+nu-2700,No context.,0.0,0.0
+nu-2701,No context.,0.0,0.0
+nu-2702,No context.,0.0,0.0
+nu-2703,No context.,0.0,0.0
+nu-2704,No context.,0.0,0.0
+nu-2705,.,0.0,0.0
+nu-2706,No context.,0.0,0.0
+nu-2707,No context.,0.0,0.0
+nu-2708,No context.,0.0,0.0
+nu-2709,No context.,0.0,0.0
+nu-2710,No context.,0.0,0.0
+nu-2711,No context.,0.0,0.0
+nu-2712,.,0.0,0.0
+nu-2713,No context.,0.0,0.0
+nu-2714,.,0.0,0.0
+nu-2715,No context.,0.0,0.0
+nu-2716,No context.,0.0,0.0
+nu-2717,.,0.0,0.0
+nu-2718,.,0.0,0.0
+nu-2719,No context.,0.0,0.0
+nu-2720,No context.,0.0,0.0
+nu-2721,.,0.0,0.0
+nu-2722,No context.,0.0,0.0
+nu-2723,No context.,0.0,0.0
+nu-2724,No context.,0.0,0.0
+nu-2725,No context.,0.0,0.0
+nu-2726,No context.,0.0,0.0
+nu-2727,No context.,0.0,0.0
+nu-2728,.,0.0,0.0
+nu-2729,.,0.0,0.0
+nu-2730,.,0.0,0.0
+nu-2731,.,0.0,0.0
+nu-2732,No context.,0.0,0.0
+nu-2733,.,0.0,0.0
+nu-2734,No context.,0.0,0.0
+nu-2735,.,0.0,0.0
+nu-2736,.,0.0,0.0
+nu-2737,.,0.0,0.0
+nu-2738,No context.,0.0,0.0
+nu-2739,No context.,0.0,0.0
+nu-2740,No context.,0.0,0.0
+nu-2741,No context.,0.0,0.0
+nu-2742,.,0.0,0.0
+nu-2743,No context.,0.0,0.0
+nu-2744,No context.,0.0,0.0
+nu-2745,No context.,0.0,0.0
+nu-2746,No context.,0.0,0.0
+nu-2747,No context,0.0,0.0
+nu-2748,No context.,0.0,0.0
+nu-2749,No context.,0.0,0.0
+nu-2750,No context.,0.0,0.0
+nu-2751,No context.,0.0,0.0
+nu-2752,No context.,0.0,0.0
+nu-2753,No context.,0.0,0.0
+nu-2754,No context.,0.0,0.0
+nu-2755,No context.,0.0,0.0
+nu-2756,No context.,0.0,0.0
+nu-2757,.,0.0,0.0
+nu-2758,No context.,0.0,0.0
+nu-2759,.,0.0,0.0
+nu-2760,.,0.0,0.0
+nu-2761,.,0.0,0.0
+nu-2762,.,0.0,0.0
+nu-2763,No context.,0.0,0.0
+nu-2764,.,0.0,0.0
+nu-2765,No context.,0.0,0.0
+nu-2766,No context.,0.0,0.0
+nu-2767,No context.,0.0,0.0
+nu-2768,No context.,0.0,0.0
+nu-2769,No context.,0.0,0.0
+nu-2770,No context.,0.0,0.0
+nu-2771,No context.,0.0,0.0
+nu-2772,No context.,0.0,0.0
+nu-2773,.,0.0,0.0
+nu-2774,No context.,0.0,0.0
+nu-2775,.,0.0,0.0
+nu-2776,No context.,0.0,0.0
+nu-2777,No context.,0.0,0.0
+nu-2778,No context.,0.0,0.0
+nu-2779,No context.,0.0,0.0
+nu-2780,No context.,0.0,0.0
+nu-2781,.,0.0,0.0
+nu-2782,No context.,0.0,0.0
+nu-2783,No context.,0.0,0.0
+nu-2784,No context.,0.0,0.0
+nu-2785,.,0.0,0.0
+nu-2786,No context.,0.0,0.0
+nu-2787,No context.,0.0,0.0
+nu-2788,No context.,0.0,0.0
+nu-2789,.,0.0,0.0
+nu-2790,.,0.0,0.0
+nu-2791,No context.,0.0,0.0
+nu-2792,No context.,0.0,0.0
+nu-2793,No context.,0.0,0.0
+nu-2794,No context.,0.0,0.0
+nu-2795,No context.,0.0,0.0
+nu-2796,No context.,0.0,0.0
+nu-2797,No context.,0.0,0.0
+nu-2798,No context.,0.0,0.0
+nu-2799,No context.,0.0,0.0
+nu-2800,.,0.0,0.0
+nu-2801,No context.,0.0,0.0
+nu-2802,.,0.0,0.0
+nu-2803,No context.,0.0,0.0
+nu-2804,No context.,0.0,0.0
+nu-2805,No context.,0.0,0.0
+nu-2806,No context.,0.0,0.0
+nu-2807,No context.,0.0,0.0
+nu-2808,No context.,0.0,0.0
+nu-2809,No context.,0.0,0.0
+nu-2810,.,0.0,0.0
+nu-2811,No context,0.0,0.0
+nu-2812,No context.,0.0,0.0
+nu-2813,No context.,0.0,0.0
+nu-2814,.,0.0,0.0
+nu-2815,No context.,0.0,0.0
+nu-2816,No context.,0.0,0.0
+nu-2817,.,0.0,0.0
+nu-2818,No context.,0.0,0.0
+nu-2819,.,0.0,0.0
+nu-2820,No context,0.0,0.0
+nu-2821,No context.,0.0,0.0
+nu-2822,No context.,0.0,0.0
+nu-2823,No context.,0.0,0.0
+nu-2824,No context.,0.0,0.0
+nu-2825,No context.,0.0,0.0
+nu-2826,No context.,0.0,0.0
+nu-2827,No context.,0.0,0.0
+nu-2828,No context,0.0,0.0
+nu-2829,.,0.0,0.0
+nu-2830,No context.,0.0,0.0
+nu-2831,No context.,0.0,0.0
+nu-2832,No context.,0.0,0.0
+nu-2833,No context,0.0,0.0
+nu-2834,No context.,0.0,0.0
+nu-2835,No context.,0.0,0.0
+nu-2836,No context.,0.0,0.0
+nu-2837,No context.,0.0,0.0
+nu-2838,No context.,0.0,0.0
+nu-2839,No context.,0.0,0.0
+nu-2840,No context.,0.0,0.0
+nu-2841,No context,0.0,0.0
+nu-2842,.,0.0,0.0
+nu-2843,No context.,0.0,0.0
+nu-2844,No context.,0.0,0.0
+nu-2845,.,0.0,0.0
+nu-2846,No context.,0.0,0.0
+nu-2847,No context.,0.0,0.0
+nu-2848,No context.,0.0,0.0
+nu-2849,No context.,0.0,0.0
+nu-2850,No context.,0.0,0.0
+nu-2851,No context.,0.0,0.0
+nu-2852,No context.,0.0,0.0
+nu-2853,No context.,0.0,0.0
+nu-2854,No context.,0.0,0.0
+nu-2855,.,0.0,0.0
+nu-2856,No context.,0.0,0.0
+nu-2857,.,0.0,0.0
+nu-2858,No context.,0.0,0.0
+nu-2859,No context.,0.0,0.0
+nu-2860,No context.,0.0,0.0
+nu-2861,No context.,0.0,0.0
+nu-2862,No context.,0.0,0.0
+nu-2863,No context.,0.0,0.0
+nu-2864,No context.,0.0,0.0
+nu-2865,No context.,0.0,0.0
+nu-2866,No context.,0.0,0.0
+nu-2867,No context.,0.0,0.0
+nu-2868,No context.,0.0,0.0
+nu-2869,No context.,0.0,0.0
+nu-2870,No context.,0.0,0.0
+nu-2871,No context.,0.0,0.0
+nu-2872,No context.,0.0,0.0
+nu-2873,No context.,0.0,0.0
+nu-2874,No context.,0.0,0.0
+nu-2875,No context.,0.0,0.0
+nu-2876,No context.,0.0,0.0
+nu-2877,No context.,0.0,0.0
+nu-2878,No context.,0.0,0.0
+nu-2879,No context.,0.0,0.0
+nu-2880,.,0.0,0.0
+nu-2881,No context.,0.0,0.0
+nu-2882,No context.,0.0,0.0
+nu-2883,No context.,0.0,0.0
+nu-2884,.,0.0,0.0
+nu-2885,No context.,0.0,0.0
+nu-2886,No context,0.0,0.0
+nu-2887,No context.,0.0,0.0
+nu-2888,.,0.0,0.0
+nu-2889,No context.,0.0,0.0
+nu-2890,.,0.0,0.0
+nu-2891,No context.,0.0,0.0
+nu-2892,No context.,0.0,0.0
+nu-2893,No context,0.0,0.0
+nu-2894,No context.,0.0,0.0
+nu-2895,No context.,0.0,0.0
+nu-2896,No context.,0.0,0.0
+nu-2897,No context.,0.0,0.0
+nu-2898,.,0.0,0.0
+nu-2899,No context.,0.0,0.0
+nu-2900,No context.,0.0,0.0
+nu-2901,No context.,0.0,0.0
+nu-2902,.,0.0,0.0
+nu-2903,No context.,0.0,0.0
+nu-2904,No context.,0.0,0.0
+nu-2905,No context.,0.0,0.0
+nu-2906,No context.,0.0,0.0
+nu-2907,No context.,0.0,0.0
+nu-2908,.,0.0,0.0
+nu-2909,No context.,0.0,0.0
+nu-2910,No context.,0.0,0.0
+nu-2911,No context.,0.0,0.0
+nu-2912,No context.,0.0,0.0
+nu-2913,.,0.0,0.0
+nu-2914,No context.,0.0,0.0
+nu-2915,No context.,0.0,0.0
+nu-2916,.,0.0,0.0
+nu-2917,.,0.0,0.0
+nu-2918,No context.,0.0,0.0
+nu-2919,No context,0.0,0.0
+nu-2920,No context.,0.0,0.0
+nu-2921,.,0.0,0.0
+nu-2922,.,0.0,0.0
+nu-2923,.,0.0,0.0
+nu-2924,No context.,0.0,0.0
+nu-2925,No context.,0.0,0.0
+nu-2926,No context.,0.0,0.0
+nu-2927,.,0.0,0.0
+nu-2928,No context.,0.0,0.0
+nu-2929,No context.,0.0,0.0
+nu-2930,No context.,0.0,0.0
+nu-2931,.,0.0,0.0
+nu-2932,No context.,0.0,0.0
+nu-2933,No context,0.0,0.0
+nu-2934,No context.,0.0,0.0
+nu-2935,No context.,0.0,0.0
+nu-2936,.,0.0,0.0
+nu-2937,No context.,0.0,0.0
+nu-2938,No context.,0.0,0.0
+nu-2939,No context.,0.0,0.0
+nu-2940,No context.,0.0,0.0
+nu-2941,No context.,0.0,0.0
+nu-2942,No context.,0.0,0.0
+nu-2943,No context.,0.0,0.0
+nu-2944,.,0.0,0.0
+nu-2945,No context.,0.0,0.0
+nu-2946,No context.,0.0,0.0
+nu-2947,No context.,0.0,0.0
+nu-2948,No context.,0.0,0.0
+nu-2949,No context.,0.0,0.0
+nu-2950,No context.,0.0,0.0
+nu-2951,No context.,0.0,0.0
+nu-2952,.,0.0,0.0
+nu-2953,No context.,0.0,0.0
+nu-2954,No context.,0.0,0.0
+nu-2955,No context.,0.0,0.0
+nu-2956,No context.,0.0,0.0
+nu-2957,No context.,0.0,0.0
+nu-2958,No context.,0.0,0.0
+nu-2959,.,0.0,0.0
+nu-2960,No context.,0.0,0.0
+nu-2961,.,0.0,0.0
+nu-2962,.,0.0,0.0
+nu-2963,No context.,0.0,0.0
+nu-2964,No context.,0.0,0.0
+nu-2965,.,0.0,0.0
+nu-2966,No context,0.0,0.0
+nu-2967,No context.,0.0,0.0
+nu-2968,.,0.0,0.0
+nu-2969,No context.,0.0,0.0
+nu-2970,No context.,0.0,0.0
+nu-2971,No context.,0.0,0.0
+nu-2972,No context.,0.0,0.0
+nu-2973,No context.,0.0,0.0
+nu-2974,.,0.0,0.0
+nu-2975,No context.,0.0,0.0
+nu-2976,.,0.0,0.0
+nu-2977,No context.,0.0,0.0
+nu-2978,No context.,0.0,0.0
+nu-2979,.,0.0,0.0
+nu-2980,No context.,0.0,0.0
+nu-2981,No context.,0.0,0.0
+nu-2982,No context.,0.0,0.0
+nu-2983,No context.,0.0,0.0
+nu-2984,No context.,0.0,0.0
+nu-2985,No context.,0.0,0.0
+nu-2986,No context.,0.0,0.0
+nu-2987,No context.,0.0,0.0
+nu-2988,No context.,0.0,0.0
+nu-2989,No context.,0.0,0.0
+nu-2990,No context.,0.0,0.0
+nu-2991,No context.,0.0,0.0
+nu-2992,.,0.0,0.0
+nu-2993,No context.,0.0,0.0
+nu-2994,No context.,0.0,0.0
+nu-2995,No context.,0.0,0.0
+nu-2996,No context,0.0,0.0
+nu-2997,No context.,0.0,0.0
+nu-2998,No context.,0.0,0.0
+nu-2999,.,0.0,0.0
+nu-3000,No context.,0.0,0.0
+nu-3001,No context.,0.0,0.0
+nu-3002,.,0.0,0.0
+nu-3003,No context.,0.0,0.0
+nu-3004,No context.,0.0,0.0
+nu-3005,.,0.0,0.0
+nu-3006,No context.,0.0,0.0
+nu-3007,.,0.0,0.0
+nu-3008,No context.,0.0,0.0
+nu-3009,No context.,0.0,0.0
+nu-3010,No context,0.0,0.0
+nu-3011,No context.,0.0,0.0
+nu-3012,No context.,0.0,0.0
+nu-3013,.,0.0,0.0
+nu-3014,No context.,0.0,0.0
+nu-3015,No context.,0.0,0.0
+nu-3016,No context.,0.0,0.0
+nu-3017,No context.,0.0,0.0
+nu-3018,No context.,0.0,0.0
+nu-3019,.,0.0,0.0
+nu-3020,No context.,66.66666666666666,0.0
+nu-3021,No context.,0.0,0.0
+nu-3022,No context.,0.0,0.0
+nu-3023,.,0.0,0.0
+nu-3024,No context.,0.0,0.0
+nu-3025,.,0.0,0.0
+nu-3026,No context.,0.0,0.0
+nu-3027,No context.,0.0,0.0
+nu-3028,.,0.0,0.0
+nu-3029,.,0.0,0.0
+nu-3030,.,0.0,0.0
+nu-3031,No context.,0.0,0.0
+nu-3032,No context.,0.0,0.0
+nu-3033,No context.,0.0,0.0
+nu-3034,.,0.0,0.0
+nu-3035,No context,0.0,0.0
+nu-3036,No context.,0.0,0.0
+nu-3037,No context.,0.0,0.0
+nu-3038,No context.,0.0,0.0
+nu-3039,No context.,0.0,0.0
+nu-3040,No context.,0.0,0.0
+nu-3041,No context.,0.0,0.0
+nu-3042,No context.,0.0,0.0
+nu-3043,No context.,0.0,0.0
+nu-3044,No context.,0.0,0.0
+nu-3045,No context.,0.0,0.0
+nu-3046,.,0.0,0.0
+nu-3047,No context,0.0,0.0
+nu-3048,.,0.0,0.0
+nu-3049,No context.,0.0,0.0
+nu-3050,.,0.0,0.0
+nu-3051,No context.,0.0,0.0
+nu-3052,.,0.0,0.0
+nu-3053,No context.,0.0,0.0
+nu-3054,No context.,0.0,0.0
+nu-3055,No context.,0.0,0.0
+nu-3056,No context.,0.0,0.0
+nu-3057,No context.,0.0,0.0
+nu-3058,No context.,0.0,0.0
+nu-3059,.,0.0,0.0
+nu-3060,.,0.0,0.0
+nu-3061,No context.,0.0,0.0
+nu-3062,.,0.0,0.0
+nu-3063,No context.,0.0,0.0
+nu-3064,No context.,0.0,0.0
+nu-3065,.,0.0,0.0
+nu-3066,No context.,0.0,0.0
+nu-3067,No context.,0.0,0.0
+nu-3068,No context.,0.0,0.0
+nu-3069,No context.,22.222222222222225,0.0
+nu-3070,No context.,0.0,0.0
+nu-3071,.,0.0,0.0
+nu-3072,No context.,0.0,0.0
+nu-3073,No context.,0.0,0.0
+nu-3074,.,0.0,0.0
+nu-3075,.,0.0,0.0
+nu-3076,No context.,0.0,0.0
+nu-3077,No context.,0.0,0.0
+nu-3078,.,0.0,0.0
+nu-3079,.,0.0,0.0
+nu-3080,No context.,0.0,0.0
+nu-3081,No context.,0.0,0.0
+nu-3082,No context.,0.0,0.0
+nu-3083,No context.,0.0,0.0
+nu-3084,No context.,0.0,0.0
+nu-3085,No context.,0.0,0.0
+nu-3086,No context,66.66666666666666,0.0
+nu-3087,No context.,0.0,0.0
+nu-3088,No context.,0.0,0.0
+nu-3090,No context,0.0,0.0
+nu-3091,No context.,0.0,0.0
+nu-3092,No context.,0.0,0.0
+nu-3093,No context.,0.0,0.0
+nu-3094,No context,0.0,0.0
+nu-3095,No context.,0.0,0.0
+nu-3096,.,0.0,0.0
+nu-3097,No context.,0.0,0.0
+nu-3098,No context.,0.0,0.0
+nu-3099,No context.,0.0,0.0
+nu-3100,No context.,0.0,0.0
+nu-3101,No context.,0.0,0.0
+nu-3102,No context.,0.0,0.0
+nu-3103,No context.,0.0,0.0
+nu-3104,No context.,0.0,0.0
+nu-3105,No context.,0.0,0.0
+nu-3106,No context.,0.0,0.0
+nu-3107,No context,0.0,0.0
+nu-3108,No context.,0.0,0.0
+nu-3109,.,0.0,0.0
+nu-3110,No context.,0.0,0.0
+nu-3111,No context.,0.0,0.0
+nu-3112,No context.,0.0,0.0
+nu-3113,.,0.0,0.0
+nu-3114,No context.,0.0,0.0
+nu-3115,.,0.0,0.0
+nu-3116,No context.,0.0,0.0
+nu-3117,No context.,0.0,0.0
+nu-3118,No context.,0.0,0.0
+nu-3119,No context.,0.0,0.0
+nu-3120,No context.,66.66666666666666,0.0
+nu-3121,No context.,0.0,0.0
+nu-3122,No context.,0.0,0.0
+nu-3123,.,0.0,0.0
+nu-3124,.,0.0,0.0
+nu-3125,.,0.0,0.0
+nu-3126,No context.,0.0,0.0
+nu-3127,No context.,0.0,0.0
+nu-3128,.,0.0,0.0
+nu-3129,No context.,0.0,0.0
+nu-3130,No context.,0.0,0.0
+nu-3131,No context.,0.0,0.0
+nu-3132,.,0.0,0.0
+nu-3133,No context.,0.0,0.0
+nu-3134,.,0.0,0.0
+nu-3135,No context.,0.0,0.0
+nu-3137,No context.,0.0,0.0
+nu-3138,No context.,0.0,0.0
+nu-3139,No context.,0.0,0.0
+nu-3140,No context.,0.0,0.0
+nu-3141,No context.,0.0,0.0
+nu-3142,.,0.0,0.0
+nu-3143,No context.,66.66666666666666,0.0
+nu-3144,No context.,0.0,0.0
+nu-3145,No context,0.0,0.0
+nu-3146,No context.,0.0,0.0
+nu-3147,.,0.0,0.0
+nu-3148,No context.,0.0,0.0
+nu-3149,No context.,0.0,0.0
+nu-3150,No context.,0.0,0.0
+nu-3151,No context,0.0,0.0
+nu-3152,No context.,0.0,0.0
+nu-3153,.,0.0,0.0
+nu-3154,No context.,0.0,0.0
+nu-3155,No context.,0.0,0.0
+nu-3156,No context.,0.0,0.0
+nu-3157,.,0.0,0.0
+nu-3158,No context.,0.0,0.0
+nu-3159,No context.,0.0,0.0
+nu-3160,No context.,0.0,0.0
+nu-3161,.,0.0,0.0
+nu-3162,No context.,0.0,0.0
+nu-3163,No context.,0.0,0.0
+nu-3164,No context.,0.0,0.0
+nu-3165,No context.,0.0,0.0
+nu-3166,No context.,0.0,0.0
+nu-3167,.,0.0,0.0
+nu-3168,No context.,0.0,0.0
+nu-3169,.,0.0,0.0
+nu-3170,No context.,0.0,0.0
+nu-3171,No context.,0.0,0.0
+nu-3172,No context.,0.0,0.0
+nu-3173,No context,0.0,0.0
+nu-3174,No context.,0.0,0.0
+nu-3175,.,0.0,0.0
+nu-3176,No context.,0.0,0.0
+nu-3177,No context.,0.0,0.0
+nu-3178,.,0.0,0.0
+nu-3179,No context.,0.0,0.0
+nu-3180,.,0.0,0.0
+nu-3181,No context.,0.0,0.0
+nu-3182,No context.,0.0,0.0
+nu-3183,.,0.0,0.0
+nu-3184,No context.,0.0,0.0
+nu-3185,No context.,0.0,0.0
+nu-3186,.,0.0,0.0
+nu-3187,.,0.0,0.0
+nu-3188,No context.,0.0,0.0
+nu-3189,No context.,0.0,0.0
+nu-3190,No context.,0.0,0.0
+nu-3191,No context.,0.0,0.0
+nu-3192,.,0.0,0.0
+nu-3193,No context.,0.0,0.0
+nu-3194,No context.,0.0,0.0
+nu-3195,No context.,0.0,0.0
+nu-3196,No context.,0.0,0.0
+nu-3197,No context.,0.0,0.0
+nu-3198,No context.,0.0,0.0
+nu-3199,.,0.0,0.0
+nu-3200,No context.,0.0,0.0
+nu-3201,No context.,0.0,0.0
+nu-3202,No context.,0.0,0.0
+nu-3203,.,0.0,0.0
+nu-3204,No context.,0.0,0.0
+nu-3205,No context.,0.0,0.0
+nu-3206,No context.,0.0,0.0
+nu-3207,No context.,0.0,0.0
+nu-3208,.,0.0,0.0
+nu-3209,No context.,0.0,0.0
+nu-3210,No context.,0.0,0.0
+nu-3211,No context.,0.0,0.0
+nu-3212,No context.,0.0,0.0
+nu-3213,No context.,0.0,0.0
+nu-3214,.,0.0,0.0
+nu-3215,.,0.0,0.0
+nu-3216,No context.,0.0,0.0
+nu-3217,No context.,0.0,0.0
+nu-3218,.,0.0,0.0
+nu-3219,No context.,0.0,0.0
+nu-3220,No context.,0.0,0.0
+nu-3221,No context.,0.0,0.0
+nu-3222,No context.,0.0,0.0
+nu-3223,No context.,0.0,0.0
+nu-3224,No context.,0.0,0.0
+nu-3225,.,0.0,0.0
+nu-3226,No context.,0.0,0.0
+nu-3227,No context.,0.0,0.0
+nu-3228,No context.,0.0,0.0
+nu-3229,.,0.0,0.0
+nu-3230,No context.,0.0,0.0
+nu-3231,.,0.0,0.0
+nu-3232,.,0.0,0.0
+nu-3233,No context.,0.0,0.0
+nu-3234,.,0.0,0.0
+nu-3235,No context.,0.0,0.0
+nu-3236,No context.,0.0,0.0
+nu-3237,No context.,0.0,0.0
+nu-3238,No context.,0.0,0.0
+nu-3239,.,0.0,0.0
+nu-3240,.,0.0,0.0
+nu-3241,No context.,0.0,0.0
+nu-3242,No context.,0.0,0.0
+nu-3243,No context.,0.0,0.0
+nu-3244,No context.,0.0,0.0
+nu-3245,No context.,0.0,0.0
+nu-3246,No context.,0.0,0.0
+nu-3247,No context.,0.0,0.0
+nu-3248,No context.,0.0,0.0
+nu-3249,No context.,0.0,0.0
+nu-3250,No context.,0.0,0.0
+nu-3251,.,0.0,0.0
+nu-3252,.,0.0,0.0
+nu-3253,.,0.0,0.0
+nu-3254,No context.,0.0,0.0
+nu-3255,.,0.0,0.0
+nu-3256,No context.,0.0,0.0
+nu-3257,No context.,0.0,0.0
+nu-3258,No context.,0.0,0.0
+nu-3259,No context.,0.0,0.0
+nu-3260,.,0.0,0.0
+nu-3261,No context.,0.0,0.0
+nu-3262,.,0.0,0.0
+nu-3263,No context.,0.0,0.0
+nu-3264,No context.,0.0,0.0
+nu-3265,No context.,0.0,0.0
+nu-3266,No context.,0.0,0.0
+nu-3267,.,0.0,0.0
+nu-3268,.,0.0,0.0
+nu-3269,No context.,0.0,0.0
+nu-3270,No context.,0.0,0.0
+nu-3271,No context.,0.0,0.0
+nu-3272,.,0.0,0.0
+nu-3273,.,0.0,0.0
+nu-3274,No context.,0.0,0.0
+nu-3275,No context.,0.0,0.0
+nu-3276,No context.,0.0,0.0
+nu-3277,No context.,0.0,0.0
+nu-3278,.,0.0,0.0
+nu-3279,.,0.0,0.0
+nu-3280,No context.,0.0,0.0
+nu-3281,No context.,0.0,0.0
+nu-3282,No context.,0.0,0.0
+nu-3283,No context.,0.0,0.0
+nu-3284,.,0.0,0.0
+nu-3285,No context.,0.0,0.0
+nu-3286,.,0.0,0.0
+nu-3287,No context.,0.0,0.0
+nu-3288,No context.,0.0,0.0
+nu-3289,No context.,0.0,0.0
+nu-3290,No context.,0.0,0.0
+nu-3291,No context.,0.0,0.0
+nu-3292,.,0.0,0.0
+nu-3293,No context.,0.0,0.0
+nu-3294,.,0.0,0.0
+nu-3295,No context.,0.0,0.0
+nu-3296,No context.,0.0,0.0
+nu-3297,No context.,0.0,0.0
+nu-3298,No context.,0.0,0.0
+nu-3299,No context.,0.0,0.0
+nu-3300,No context.,0.0,0.0
+nu-3301,No context.,0.0,0.0
+nu-3302,No context.,0.0,0.0
+nu-3303,No context.,0.0,0.0
+nu-3304,No context.,0.0,0.0
+nu-3305,No context.,0.0,0.0
+nu-3306,.,0.0,0.0
+nu-3307,No context.,0.0,0.0
+nu-3308,No context.,0.0,0.0
+nu-3309,.,0.0,0.0
+nu-3310,No context.,0.0,0.0
+nu-3311,No context.,0.0,0.0
+nu-3312,No context.,0.0,0.0
+nu-3313,.,0.0,0.0
+nu-3314,.,0.0,0.0
+nu-3315,.,0.0,0.0
+nu-3316,.,0.0,0.0
+nu-3317,.,0.0,0.0
+nu-3318,.,0.0,0.0
+nu-3319,No context.,0.0,0.0
+nu-3320,No context.,0.0,0.0
+nu-3321,No context.,0.0,0.0
+nu-3322,No context.,0.0,0.0
+nu-3323,.,0.0,0.0
+nu-3324,No context.,0.0,0.0
+nu-3325,.,0.0,0.0
+nu-3326,No context.,0.0,0.0
+nu-3327,No context,0.0,0.0
+nu-3328,No context.,0.0,0.0
+nu-3329,.,0.0,0.0
+nu-3330,No context.,0.0,0.0
+nu-3331,.,0.0,0.0
+nu-3332,.,0.0,0.0
+nu-3333,No context.,0.0,0.0
+nu-3334,No context.,0.0,0.0
+nu-3335,No context.,0.0,0.0
+nu-3336,No context.,0.0,0.0
+nu-3337,No context.,0.0,0.0
+nu-3338,No context.,0.0,0.0
+nu-3339,No context.,0.0,0.0
+nu-3340,No context.,0.0,0.0
+nu-3341,.,0.0,0.0
+nu-3342,No context.,0.0,0.0
+nu-3343,No context.,0.0,0.0
+nu-3344,No context.,0.0,0.0
+nu-3345,.,0.0,0.0
+nu-3346,No context.,0.0,0.0
+nu-3347,.,0.0,0.0
+nu-3348,No context.,0.0,0.0
+nu-3349,.,0.0,0.0
+nu-3350,No context.,0.0,0.0
+nu-3351,No context.,0.0,0.0
+nu-3352,No context.,0.0,0.0
+nu-3353,.,0.0,0.0
+nu-3354,No context.,0.0,0.0
+nu-3355,.,0.0,0.0
+nu-3356,No context.,0.0,0.0
+nu-3357,.,0.0,0.0
+nu-3358,No context.,0.0,0.0
+nu-3359,.,0.0,0.0
+nu-3360,No context.,0.0,0.0
+nu-3361,No context.,0.0,0.0
+nu-3362,No context.,0.0,0.0
+nu-3363,No context.,0.0,0.0
+nu-3364,.,0.0,0.0
+nu-3365,No context.,0.0,0.0
+nu-3366,No context.,0.0,0.0
+nu-3367,.,0.0,0.0
+nu-3368,No context.,0.0,0.0
+nu-3369,No context.,0.0,0.0
+nu-3370,No context.,0.0,0.0
+nu-3371,No context.,0.0,0.0
+nu-3372,No context.,0.0,0.0
+nu-3373,No context.,0.0,0.0
+nu-3374,No context,66.66666666666666,0.0
+nu-3375,No context.,0.0,0.0
+nu-3376,No context.,0.0,0.0
+nu-3377,No context.,0.0,0.0
+nu-3378,No context.,0.0,0.0
+nu-3379,No context.,0.0,0.0
+nu-3380,No context.,0.0,0.0
+nu-3381,No context.,0.0,0.0
+nu-3382,.,0.0,0.0
+nu-3383,No context.,0.0,0.0
+nu-3384,No context.,0.0,0.0
+nu-3385,No context.,0.0,0.0
+nu-3386,No context.,0.0,0.0
+nu-3387,No context.,0.0,0.0
+nu-3388,.,0.0,0.0
+nu-3389,No context.,0.0,0.0
+nu-3390,No context.,0.0,0.0
+nu-3391,No context.,0.0,0.0
+nu-3392,No context.,0.0,0.0
+nu-3393,No context.,0.0,0.0
+nu-3394,No context.,0.0,0.0
+nu-3395,No context.,0.0,0.0
+nu-3396,.,0.0,0.0
+nu-3397,No context.,0.0,0.0
+nu-3398,.,0.0,0.0
+nu-3399,No context.,0.0,0.0
+nu-3400,No context.,0.0,0.0
+nu-3401,.,0.0,0.0
+nu-3402,No context.,0.0,0.0
+nu-3403,No context.,0.0,0.0
+nu-3404,No context.,0.0,0.0
+nu-3405,.,0.0,0.0
+nu-3406,No context.,0.0,0.0
+nu-3407,.,0.0,0.0
+nu-3408,No context,0.0,0.0
+nu-3409,No context,0.0,0.0
+nu-3410,No context.,0.0,0.0
+nu-3411,.,0.0,0.0
+nu-3412,No context.,0.0,0.0
+nu-3413,.,0.0,0.0
+nu-3414,No context,0.0,0.0
+nu-3415,No context.,0.0,0.0
+nu-3416,.,0.0,0.0
+nu-3417,No context.,0.0,0.0
+nu-3418,No context.,0.0,0.0
+nu-3419,No context.,0.0,0.0
+nu-3420,.,0.0,0.0
+nu-3421,No context.,0.0,0.0
+nu-3422,No context.,0.0,0.0
+nu-3423,No context.,0.0,0.0
+nu-3424,No context.,0.0,0.0
+nu-3425,No context.,0.0,0.0
+nu-3426,No context.,0.0,0.0
+nu-3427,.,0.0,0.0
+nu-3428,No context.,0.0,0.0
+nu-3429,No context.,0.0,0.0
+nu-3430,No context.,0.0,0.0
+nu-3431,No context.,0.0,0.0
+nu-3432,No context.,0.0,0.0
+nu-3433,No context.,0.0,0.0
+nu-3434,No context.,0.0,0.0
+nu-3435,No context.,0.0,0.0
+nu-3436,No context.,0.0,0.0
+nu-3437,No context.,0.0,0.0
+nu-3438,.,0.0,0.0
+nu-3439,No context.,0.0,0.0
+nu-3440,.,0.0,0.0
+nu-3441,No context.,0.0,0.0
+nu-3442,.,0.0,0.0
+nu-3443,.,0.0,0.0
+nu-3444,.,0.0,0.0
+nu-3445,.,0.0,0.0
+nu-3446,.,0.0,0.0
+nu-3447,No context.,0.0,0.0
+nu-3448,No context.,0.0,0.0
+nu-3449,.,0.0,0.0
+nu-3450,No context.,0.0,0.0
+nu-3451,No context.,0.0,0.0
+nu-3452,No context.,0.0,0.0
+nu-3453,.,0.0,0.0
+nu-3454,No context.,0.0,0.0
+nu-3455,No context.,0.0,0.0
+nu-3456,No context.,0.0,0.0
+nu-3457,No context.,0.0,0.0
+nu-3458,.,0.0,0.0
+nu-3459,No context.,0.0,0.0
+nu-3460,No context.,0.0,0.0
+nu-3461,.,0.0,0.0
+nu-3462,No context.,0.0,0.0
+nu-3463,No context.,0.0,0.0
+nu-3464,No context.,0.0,0.0
+nu-3465,No context.,0.0,0.0
+nu-3466,No context.,0.0,0.0
+nu-3467,No context.,0.0,0.0
+nu-3468,No context.,0.0,0.0
+nu-3469,No context.,0.0,0.0
+nu-3470,No context.,0.0,0.0
+nu-3471,No context.,0.0,0.0
+nu-3472,No context.,0.0,0.0
+nu-3473,No context.,0.0,0.0
+nu-3474,.,0.0,0.0
+nu-3475,No context.,0.0,0.0
+nu-3476,No context.,0.0,0.0
+nu-3477,No context.,0.0,0.0
+nu-3478,No context,0.0,0.0
+nu-3479,No context.,0.0,0.0
+nu-3480,No context.,0.0,0.0
+nu-3481,No context.,0.0,0.0
+nu-3482,.,0.0,0.0
+nu-3483,No context.,0.0,0.0
+nu-3484,No context.,0.0,0.0
+nu-3485,No context.,0.0,0.0
+nu-3486,No context.,0.0,0.0
+nu-3487,No context.,0.0,0.0
+nu-3488,No context.,0.0,0.0
+nu-3489,No context.,0.0,0.0
+nu-3490,No context.,0.0,0.0
+nu-3491,.,0.0,0.0
+nu-3492,No context.,0.0,0.0
+nu-3493,No context.,0.0,0.0
+nu-3494,.,0.0,0.0
+nu-3495,No context.,0.0,0.0
+nu-3496,No context.,0.0,0.0
+nu-3497,No context.,0.0,0.0
+nu-3498,.,0.0,0.0
+nu-3500,No context.,0.0,0.0
+nu-3501,.,0.0,0.0
+nu-3502,No context.,0.0,0.0
+nu-3503,.,0.0,0.0
+nu-3504,No context.,0.0,0.0
+nu-3505,No context.,0.0,0.0
+nu-3506,No context.,0.0,0.0
+nu-3507,No context.,0.0,0.0
+nu-3508,No context.,0.0,0.0
+nu-3509,.,0.0,0.0
+nu-3510,No context.,0.0,0.0
+nu-3511,No context.,0.0,0.0
+nu-3512,No context.,0.0,0.0
+nu-3513,.,0.0,0.0
+nu-3514,No context.,0.0,0.0
+nu-3515,.,0.0,0.0
+nu-3516,No context.,0.0,0.0
+nu-3517,No context.,0.0,0.0
+nu-3518,.,0.0,0.0
+nu-3519,No context.,0.0,0.0
+nu-3520,No context.,0.0,0.0
+nu-3521,No context.,0.0,0.0
+nu-3522,No context,0.0,0.0
+nu-3523,No context.,0.0,0.0
+nu-3524,.,0.0,0.0
+nu-3525,.,0.0,0.0
+nu-3526,No context.,0.0,0.0
+nu-3527,.,0.0,0.0
+nu-3528,.,0.0,0.0
+nu-3529,.,0.0,0.0
+nu-3530,No context.,0.0,0.0
+nu-3531,No context.,0.0,0.0
+nu-3532,No context.,66.66666666666666,0.0
+nu-3533,No context.,0.0,0.0
+nu-3534,No context.,0.0,0.0
+nu-3535,No context.,0.0,0.0
+nu-3536,No context.,0.0,0.0
+nu-3537,No context.,0.0,0.0
+nu-3538,.,0.0,0.0
+nu-3539,.,0.0,0.0
+nu-3540,No context.,0.0,0.0
+nu-3541,.,0.0,0.0
+nu-3542,.,0.0,0.0
+nu-3543,No context.,0.0,0.0
+nu-3544,No context.,0.0,0.0
+nu-3545,No context.,0.0,0.0
+nu-3546,No context.,0.0,0.0
+nu-3547,No context.,0.0,0.0
+nu-3548,No context.,0.0,0.0
+nu-3549,No context.,0.0,0.0
+nu-3550,.,0.0,0.0
+nu-3551,No context.,0.0,0.0
+nu-3552,No context.,0.0,0.0
+nu-3553,.,0.0,0.0
+nu-3554,No context.,0.0,0.0
+nu-3555,No context.,0.0,0.0
+nu-3556,No context.,0.0,0.0
+nu-3557,No context.,0.0,0.0
+nu-3558,.,0.0,0.0
+nu-3559,No context.,0.0,0.0
+nu-3560,No context.,0.0,0.0
+nu-3561,No context.,0.0,0.0
+nu-3562,No context.,0.0,0.0
+nu-3563,.,0.0,0.0
+nu-3564,No context.,0.0,0.0
+nu-3565,No context.,0.0,0.0
+nu-3566,No context.,0.0,0.0
+nu-3567,No context.,0.0,0.0
+nu-3568,No context.,0.0,0.0
+nu-3569,No context.,0.0,0.0
+nu-3570,No context.,0.0,0.0
+nu-3571,No context.,0.0,0.0
+nu-3572,No context.,0.0,0.0
+nu-3573,No context.,0.0,0.0
+nu-3574,.,0.0,0.0
+nu-3575,No context.,0.0,0.0
+nu-3576,No context.,0.0,0.0
+nu-3577,No context.,0.0,0.0
+nu-3578,No context.,0.0,0.0
+nu-3579,No context.,0.0,0.0
+nu-3580,No context.,0.0,0.0
+nu-3581,No context.,0.0,0.0
+nu-3582,No context.,0.0,0.0
+nu-3583,No context.,0.0,0.0
+nu-3584,No context.,0.0,0.0
+nu-3585,No context.,0.0,0.0
+nu-3586,No context.,0.0,0.0
+nu-3587,No context.,0.0,0.0
+nu-3588,No context.,0.0,0.0
+nu-3589,No context.,0.0,0.0
+nu-3590,.,0.0,0.0
+nu-3591,.,0.0,0.0
+nu-3592,.,0.0,0.0
+nu-3593,No context.,0.0,0.0
+nu-3594,.,0.0,0.0
+nu-3595,No context.,0.0,0.0
+nu-3596,No context.,0.0,0.0
+nu-3597,No context.,0.0,0.0
+nu-3598,.,0.0,0.0
+nu-3599,No context.,0.0,0.0
+nu-3600,No context.,0.0,0.0
+nu-3601,No context.,0.0,0.0
+nu-3602,.,0.0,0.0
+nu-3603,.,0.0,0.0
+nu-3604,No context.,0.0,0.0
+nu-3605,No context.,0.0,0.0
+nu-3606,.,0.0,0.0
+nu-3607,No context.,0.0,0.0
+nu-3608,.,0.0,0.0
+nu-3609,.,0.0,0.0
+nu-3610,No context,0.0,0.0
+nu-3611,No context.,0.0,0.0
+nu-3612,No context.,0.0,0.0
+nu-3613,No context.,0.0,0.0
+nu-3614,No context.,0.0,0.0
+nu-3615,No context.,0.0,0.0
+nu-3616,No context.,0.0,0.0
+nu-3617,.,0.0,0.0
+nu-3618,No context.,0.0,0.0
+nu-3619,No context.,0.0,0.0
+nu-3620,No context.,0.0,0.0
+nu-3621,.,0.0,0.0
+nu-3622,No context.,0.0,0.0
+nu-3623,No context.,0.0,0.0
+nu-3624,No context.,0.0,0.0
+nu-3625,No context.,0.0,0.0
+nu-3626,No context.,0.0,0.0
+nu-3627,.,0.0,0.0
+nu-3628,No context.,0.0,0.0
+nu-3629,No context.,0.0,0.0
+nu-3630,No context.,0.0,0.0
+nu-3631,No context.,0.0,0.0
+nu-3632,No context.,0.0,0.0
+nu-3633,No context.,0.0,0.0
+nu-3634,No context.,0.0,0.0
+nu-3635,No context.,0.0,0.0
+nu-3636,No context.,0.0,0.0
+nu-3637,No context.,0.0,0.0
+nu-3638,No context.,0.0,0.0
+nu-3639,No context.,0.0,0.0
+nu-3640,No context.,0.0,0.0
+nu-3641,No context.,0.0,0.0
+nu-3642,.,0.0,0.0
+nu-3643,No context.,0.0,0.0
+nu-3644,.,0.0,0.0
+nu-3645,No context.,0.0,0.0
+nu-3646,.,0.0,0.0
+nu-3647,No context.,0.0,0.0
+nu-3648,No context.,0.0,0.0
+nu-3650,No context.,0.0,0.0
+nu-3651,No context.,0.0,0.0
+nu-3652,.,0.0,0.0
+nu-3653,.,0.0,0.0
+nu-3654,No context.,0.0,0.0
+nu-3655,No context.,0.0,0.0
+nu-3656,.,0.0,0.0
+nu-3657,No context,0.0,0.0
+nu-3658,No context.,0.0,0.0
+nu-3659,No context.,0.0,0.0
+nu-3660,No context.,0.0,0.0
+nu-3661,No context.,0.0,0.0
+nu-3662,.,0.0,0.0
+nu-3663,.,0.0,0.0
+nu-3664,No context.,0.0,0.0
+nu-3665,.,0.0,0.0
+nu-3666,.,0.0,0.0
+nu-3667,No context.,0.0,0.0
+nu-3668,No context.,0.0,0.0
+nu-3669,No context.,0.0,0.0
+nu-3670,No context.,0.0,0.0
+nu-3671,No context.,0.0,0.0
+nu-3672,No context.,0.0,0.0
+nu-3673,No context.,0.0,0.0
+nu-3674,No context.,0.0,0.0
+nu-3675,.,0.0,0.0
+nu-3676,.,0.0,0.0
+nu-3677,No context.,0.0,0.0
+nu-3678,No context.,0.0,0.0
+nu-3679,No context.,0.0,0.0
+nu-3680,No context.,0.0,0.0
+nu-3681,No context.,0.0,0.0
+nu-3682,No context.,0.0,0.0
+nu-3683,No context.,0.0,0.0
+nu-3684,No context.,0.0,0.0
+nu-3685,No context.,0.0,0.0
+nu-3686,No context.,0.0,0.0
+nu-3687,No context.,0.0,0.0
+nu-3688,No context.,0.0,0.0
+nu-3689,No context.,0.0,0.0
+nu-3690,No context.,0.0,0.0
+nu-3691,No context.,0.0,0.0
+nu-3692,No context,0.0,0.0
+nu-3693,No context.,0.0,0.0
+nu-3694,No context.,0.0,0.0
+nu-3695,No context.,0.0,0.0
+nu-3696,No context.,0.0,0.0
+nu-3697,.,0.0,0.0
+nu-3698,.,0.0,0.0
+nu-3699,No context.,0.0,0.0
+nu-3700,.,0.0,0.0
+nu-3701,No context.,0.0,0.0
+nu-3703,No context.,0.0,0.0
+nu-3704,No context.,0.0,0.0
+nu-3705,.,0.0,0.0
+nu-3706,.,0.0,0.0
+nu-3707,.,0.0,0.0
+nu-3708,No context.,0.0,0.0
+nu-3709,No context.,0.0,0.0
+nu-3710,No context.,0.0,0.0
+nu-3711,No context.,0.0,0.0
+nu-3712,.,0.0,0.0
+nu-3713,No context.,0.0,0.0
+nu-3714,No context.,0.0,0.0
+nu-3715,No context.,0.0,0.0
+nu-3716,.,0.0,0.0
+nu-3717,No context.,0.0,0.0
+nu-3718,No context.,0.0,0.0
+nu-3719,No context.,0.0,0.0
+nu-3720,.,0.0,0.0
+nu-3721,No context.,0.0,0.0
+nu-3722,No context.,0.0,0.0
+nu-3724,.,0.0,0.0
+nu-3725,No context.,0.0,0.0
+nu-3726,No context.,0.0,0.0
+nu-3727,.,0.0,0.0
+nu-3728,No context.,0.0,0.0
+nu-3729,.,0.0,0.0
+nu-3730,No context.,0.0,0.0
+nu-3731,.,0.0,0.0
+nu-3732,No context.,0.0,0.0
+nu-3733,No context.,0.0,0.0
+nu-3734,No context.,0.0,0.0
+nu-3735,No context.,0.0,0.0
+nu-3736,No context.,0.0,0.0
+nu-3737,No context.,0.0,0.0
+nu-3738,No context.,0.0,0.0
+nu-3739,.,0.0,0.0
+nu-3740,No context.,0.0,0.0
+nu-3741,No context.,0.0,0.0
+nu-3742,No context.,0.0,0.0
+nu-3743,No context.,0.0,0.0
+nu-3744,No context.,0.0,0.0
+nu-3745,No context.,0.0,0.0
+nu-3746,No context.,66.66666666666666,0.0
+nu-3747,.,0.0,0.0
+nu-3748,No context.,0.0,0.0
+nu-3750,No context.,0.0,0.0
+nu-3752,No context.,0.0,0.0
+nu-3753,No context.,0.0,0.0
+nu-3754,No context.,0.0,0.0
+nu-3755,No context.,0.0,0.0
+nu-3756,No context.,0.0,0.0
+nu-3757,.,0.0,0.0
+nu-3758,No context.,0.0,0.0
+nu-3759,.,0.0,0.0
+nu-3760,.,0.0,0.0
+nu-3761,No context.,0.0,0.0
+nu-3762,No context.,0.0,0.0
+nu-3763,.,0.0,0.0
+nu-3764,No context.,0.0,0.0
+nu-3765,.,0.0,0.0
+nu-3766,No context.,0.0,0.0
+nu-3767,No context.,0.0,0.0
+nu-3768,.,0.0,0.0
+nu-3769,No context.,0.0,0.0
+nu-3770,No context.,0.0,0.0
+nu-3771,No context.,0.0,0.0
+nu-3772,No context.,0.0,0.0
+nu-3773,No context.,0.0,0.0
+nu-3774,No context.,0.0,0.0
+nu-3775,No context.,0.0,0.0
+nu-3776,No context.,0.0,0.0
+nu-3777,No context.,0.0,0.0
+nu-3778,.,0.0,0.0
+nu-3779,No context.,0.0,0.0
+nu-3780,.,0.0,0.0
+nu-3781,.,0.0,0.0
+nu-3782,No context.,0.0,0.0
+nu-3783,.,0.0,0.0
+nu-3784,No context.,0.0,0.0
+nu-3785,No context.,0.0,0.0
+nu-3786,No context.,0.0,0.0
+nu-3787,.,0.0,0.0
+nu-3788,No context.,0.0,0.0
+nu-3789,No context.,0.0,0.0
+nu-3790,No context.,0.0,0.0
+nu-3791,No context.,0.0,0.0
+nu-3792,.,0.0,0.0
+nu-3793,No context.,0.0,0.0
+nu-3794,No context.,0.0,0.0
+nu-3795,.,0.0,0.0
+nu-3796,No context.,0.0,0.0
+nu-3797,.,0.0,0.0
+nu-3798,No context.,0.0,0.0
+nu-3799,No context.,0.0,0.0
+nu-3800,No context.,0.0,0.0
+nu-3801,No context.,0.0,0.0
+nu-3802,No context.,0.0,0.0
+nu-3803,No context.,0.0,0.0
+nu-3804,No context.,0.0,0.0
+nu-3805,No context.,0.0,0.0
+nu-3806,.,0.0,0.0
+nu-3807,No context.,0.0,0.0
+nu-3808,No context.,0.0,0.0
+nu-3809,.,0.0,0.0
+nu-3810,No context.,0.0,0.0
+nu-3811,.,0.0,0.0
+nu-3812,No context.,0.0,0.0
+nu-3813,No context.,0.0,0.0
+nu-3814,No context.,0.0,0.0
+nu-3815,.,0.0,0.0
+nu-3816,No context.,0.0,0.0
+nu-3817,.,0.0,0.0
+nu-3818,No context.,0.0,0.0
+nu-3819,.,0.0,0.0
+nu-3820,No context.,0.0,0.0
+nu-3821,No context.,0.0,0.0
+nu-3822,No context.,0.0,0.0
+nu-3823,No context.,0.0,0.0
+nu-3824,No context.,0.0,0.0
+nu-3825,No context.,0.0,0.0
+nu-3826,.,0.0,0.0
+nu-3827,No context.,0.0,0.0
+nu-3828,.,0.0,0.0
+nu-3829,No context.,0.0,0.0
+nu-3830,No context.,0.0,0.0
+nu-3831,No context.,0.0,0.0
+nu-3832,.,0.0,0.0
+nu-3833,.,0.0,0.0
+nu-3834,No context.,0.0,0.0
+nu-3836,No context.,0.0,0.0
+nu-3837,No context.,0.0,0.0
+nu-3838,.,0.0,0.0
+nu-3839,No context.,0.0,0.0
+nu-3840,No context.,0.0,0.0
+nu-3841,.,0.0,0.0
+nu-3842,No context.,0.0,0.0
+nu-3843,No context.,0.0,0.0
+nu-3844,.,0.0,0.0
+nu-3845,.,0.0,0.0
+nu-3846,.,0.0,0.0
+nu-3847,No context.,0.0,0.0
+nu-3848,No context.,0.0,0.0
+nu-3849,No context.,0.0,0.0
+nu-3850,.,0.0,0.0
+nu-3851,No context.,0.0,0.0
+nu-3852,.,0.0,0.0
+nu-3853,No context.,0.0,0.0
+nu-3854,.,0.0,0.0
+nu-3855,.,0.0,0.0
+nu-3856,No context.,0.0,0.0
+nu-3857,No context,0.0,0.0
+nu-3858,.,0.0,0.0
+nu-3859,No context.,0.0,0.0
+nu-3860,.,0.0,0.0
+nu-3861,No context.,0.0,0.0
+nu-3862,.,0.0,0.0
+nu-3863,.,0.0,0.0
+nu-3864,No context,0.0,0.0
+nu-3865,No context.,0.0,0.0
+nu-3866,No context.,0.0,0.0
+nu-3867,.,0.0,0.0
+nu-3868,No context.,0.0,0.0
+nu-3869,No context.,0.0,0.0
+nu-3870,No context.,0.0,0.0
+nu-3871,No context,0.0,0.0
+nu-3872,No context.,0.0,0.0
+nu-3873,No context.,0.0,0.0
+nu-3874,No context.,0.0,0.0
+nu-3875,No context.,0.0,0.0
+nu-3876,No context.,0.0,0.0
+nu-3877,No context.,0.0,0.0
+nu-3878,No context.,0.0,0.0
+nu-3879,.,0.0,0.0
+nu-3880,No context,0.0,0.0
+nu-3881,No context.,0.0,0.0
+nu-3882,No context.,0.0,0.0
+nu-3883,No context.,0.0,0.0
+nu-3884,No context.,0.0,0.0
+nu-3885,No context.,0.0,0.0
+nu-3886,.,0.0,0.0
+nu-3887,No context.,0.0,0.0
+nu-3888,No context.,0.0,0.0
+nu-3889,No context.,0.0,0.0
+nu-3890,No context.,0.0,0.0
+nu-3891,No context.,0.0,0.0
+nu-3892,No context.,0.0,0.0
+nu-3893,No context.,0.0,0.0
+nu-3894,No context.,0.0,0.0
+nu-3895,.,0.0,0.0
+nu-3896,No context.,0.0,0.0
+nu-3897,.,0.0,0.0
+nu-3898,No context.,0.0,0.0
+nu-3899,No context.,0.0,0.0
+nu-3900,No context.,0.0,0.0
+nu-3901,.,0.0,0.0
+nu-3902,No context.,0.0,0.0
+nu-3903,.,0.0,0.0
+nu-3904,No context.,0.0,0.0
+nu-3905,.,0.0,0.0
+nu-3906,No context.,0.0,0.0
+nu-3907,No context.,0.0,0.0
+nu-3908,No context.,0.0,0.0
+nu-3909,No context.,0.0,0.0
+nu-3910,No context.,0.0,0.0
+nu-3911,No context.,0.0,0.0
+nu-3912,No context.,0.0,0.0
+nu-3913,No context.,0.0,0.0
+nu-3914,No context.,0.0,0.0
+nu-3915,.,0.0,0.0
+nu-3916,No context.,0.0,0.0
+nu-3917,.,0.0,0.0
+nu-3918,.,0.0,0.0
+nu-3919,No context.,0.0,0.0
+nu-3920,No context.,0.0,0.0
+nu-3921,No context.,0.0,0.0
+nu-3922,No context.,0.0,0.0
+nu-3923,.,0.0,0.0
+nu-3924,.,0.0,0.0
+nu-3925,No context.,0.0,0.0
+nu-3926,No context.,0.0,0.0
+nu-3927,No context.,0.0,0.0
+nu-3929,.,0.0,0.0
+nu-3930,.,0.0,0.0
+nu-3931,No context.,0.0,0.0
+nu-3932,No context.,0.0,0.0
+nu-3933,No context.,0.0,0.0
+nu-3934,No context.,0.0,0.0
+nu-3935,.,0.0,0.0
+nu-3936,No context.,0.0,0.0
+nu-3937,No context.,0.0,0.0
+nu-3938,No context.,0.0,0.0
+nu-3939,No context.,0.0,0.0
+nu-3940,.,0.0,0.0
+nu-3941,.,0.0,0.0
+nu-3942,No context.,0.0,0.0
+nu-3943,No context.,0.0,0.0
+nu-3944,No context.,0.0,0.0
+nu-3945,.,0.0,0.0
+nu-3946,No context.,0.0,0.0
+nu-3947,No context.,0.0,0.0
+nu-3948,.,0.0,0.0
+nu-3949,No context.,0.0,0.0
+nu-3950,No context.,0.0,0.0
+nu-3951,No context.,0.0,0.0
+nu-3952,.,0.0,0.0
+nu-3953,.,0.0,0.0
+nu-3954,No context.,0.0,0.0
+nu-3955,.,0.0,0.0
+nu-3956,No context.,0.0,0.0
+nu-3957,No context.,0.0,0.0
+nu-3959,No context.,0.0,0.0
+nu-3960,No context.,0.0,0.0
+nu-3961,No context.,0.0,0.0
+nu-3962,No context.,0.0,0.0
+nu-3963,No context.,0.0,0.0
+nu-3964,No context.,0.0,0.0
+nu-3965,No context.,0.0,0.0
+nu-3966,No context,0.0,0.0
+nu-3967,No context.,0.0,0.0
+nu-3968,No context.,66.66666666666666,0.0
+nu-3969,No context.,0.0,0.0
+nu-3970,No context.,0.0,0.0
+nu-3971,No context.,0.0,0.0
+nu-3972,No context.,0.0,0.0
+nu-3973,No context.,0.0,0.0
+nu-3974,No context.,0.0,0.0
+nu-3975,No context.,0.0,0.0
+nu-3976,No context.,0.0,0.0
+nu-3977,No context,0.0,0.0
+nu-3978,No context.,0.0,0.0
+nu-3979,No context.,0.0,0.0
+nu-3980,No context.,0.0,0.0
+nu-3981,No context.,0.0,0.0
+nu-3982,No context.,0.0,0.0
+nu-3983,No context.,0.0,0.0
+nu-3984,No context.,0.0,0.0
+nu-3985,.,0.0,0.0
+nu-3986,No context.,0.0,0.0
+nu-3987,No context.,0.0,0.0
+nu-3988,No context.,0.0,0.0
+nu-3989,No context.,0.0,0.0
+nu-3990,.,0.0,0.0
+nu-3991,No context.,0.0,0.0
+nu-3992,No context.,0.0,0.0
+nu-3993,No context.,0.0,0.0
+nu-3994,No context.,0.0,0.0
+nu-3995,.,0.0,0.0
+nu-3996,No context.,0.0,0.0
+nu-3997,No context.,0.0,0.0
+nu-3998,No context.,0.0,0.0
+nu-3999,No context.,0.0,0.0
+nu-4000,No context.,0.0,0.0
+nu-4001,No context.,0.0,0.0
+nu-4002,No context.,0.0,0.0
+nu-4003,No context.,0.0,0.0
+nu-4004,.,0.0,0.0
+nu-4005,No context.,0.0,0.0
+nu-4006,No context.,0.0,0.0
+nu-4007,No context.,0.0,0.0
+nu-4008,.,0.0,0.0
+nu-4009,No context.,0.0,0.0
+nu-4010,No context.,0.0,0.0
+nu-4011,No context.,0.0,0.0
+nu-4012,No context.,0.0,0.0
+nu-4013,No context,0.0,0.0
+nu-4014,.,0.0,0.0
+nu-4015,No context.,0.0,0.0
+nu-4016,.,0.0,0.0
+nu-4018,No context.,0.0,0.0
+nu-4019,No context.,0.0,0.0
+nu-4020,No context.,0.0,0.0
+nu-4021,No context.,0.0,0.0
+nu-4022,No context.,0.0,0.0
+nu-4023,No context.,0.0,0.0
+nu-4024,No context.,0.0,0.0
+nu-4025,No context.,0.0,0.0
+nu-4026,.,0.0,0.0
+nu-4027,.,0.0,0.0
+nu-4028,No context.,0.0,0.0
+nu-4029,.,0.0,0.0
+nu-4030,.,0.0,0.0
+nu-4031,.,0.0,0.0
+nu-4032,No context.,0.0,0.0
+nu-4033,No context.,0.0,0.0
+nu-4034,No context.,0.0,0.0
+nu-4035,.,0.0,0.0
+nu-4036,No context.,0.0,0.0
+nu-4037,No context.,0.0,0.0
+nu-4038,No context.,0.0,0.0
+nu-4039,No context.,0.0,0.0
+nu-4040,No context.,0.0,0.0
+nu-4041,No context.,0.0,0.0
+nu-4042,No context.,0.0,0.0
+nu-4043,No context.,0.0,0.0
+nu-4044,No context.,0.0,0.0
+nu-4045,.,0.0,0.0
+nu-4046,.,0.0,0.0
+nu-4047,.,0.0,0.0
+nu-4048,No context.,0.0,0.0
+nu-4049,No context.,0.0,0.0
+nu-4050,.,0.0,0.0
+nu-4051,No context.,0.0,0.0
+nu-4052,No context.,0.0,0.0
+nu-4053,No context.,0.0,0.0
+nu-4054,No context.,0.0,0.0
+nu-4055,No context.,0.0,0.0
+nu-4056,No context.,0.0,0.0
+nu-4057,No context.,0.0,0.0
+nu-4058,No context.,0.0,0.0
+nu-4059,.,0.0,0.0
+nu-4060,No context.,0.0,0.0
+nu-4061,.,0.0,0.0
+nu-4062,No context.,0.0,0.0
+nu-4063,.,0.0,0.0
+nu-4064,No context.,0.0,0.0
+nu-4065,No context.,0.0,0.0
+nu-4066,No context.,0.0,0.0
+nu-4067,No context.,0.0,0.0
+nu-4068,No context.,0.0,0.0
+nu-4069,.,0.0,0.0
+nu-4070,.,0.0,0.0
+nu-4071,No context.,0.0,0.0
+nu-4072,.,0.0,0.0
+nu-4073,No context.,0.0,0.0
+nu-4074,No context.,0.0,0.0
+nu-4075,.,0.0,0.0
+nu-4076,.,0.0,0.0
+nu-4077,No context.,0.0,0.0
+nu-4078,No context.,0.0,0.0
+nu-4079,No context.,0.0,0.0
+nu-4080,No context.,0.0,0.0
+nu-4081,No context.,0.0,0.0
+nu-4082,No context.,0.0,0.0
+nu-4083,No context.,0.0,0.0
+nu-4084,No context.,0.0,0.0
+nu-4085,.,0.0,0.0
+nu-4086,No context.,0.0,0.0
+nu-4087,.,0.0,0.0
+nu-4088,.,0.0,0.0
+nu-4089,No context.,0.0,0.0
+nu-4090,No context.,0.0,0.0
+nu-4091,No context.,0.0,0.0
+nu-4092,No context,66.66666666666666,0.0
+nu-4093,.,0.0,0.0
+nu-4094,No context.,0.0,0.0
+nu-4095,No context.,0.0,0.0
+nu-4096,No context.,0.0,0.0
+nu-4097,No context.,0.0,0.0
+nu-4098,No context.,0.0,0.0
+nu-4099,.,0.0,0.0
+nu-4100,No context.,0.0,0.0
+nu-4101,No context.,0.0,0.0
+nu-4102,No context.,0.0,0.0
+nu-4103,No context.,0.0,0.0
+nu-4104,No context.,0.0,0.0
+nu-4105,No context.,0.0,0.0
+nu-4106,No context.,0.0,0.0
+nu-4107,No context.,0.0,0.0
+nu-4108,No context.,0.0,0.0
+nu-4109,.,0.0,0.0
+nu-4110,No context.,0.0,0.0
+nu-4111,.,0.0,0.0
+nu-4112,No context.,0.0,0.0
+nu-4113,No context.,0.0,0.0
+nu-4114,No context.,0.0,0.0
+nu-4115,No context.,0.0,0.0
+nu-4116,No context.,0.0,0.0
+nu-4117,.,0.0,0.0
+nu-4118,No context.,0.0,0.0
+nu-4119,No context.,0.0,0.0
+nu-4120,No context.,0.0,0.0
+nu-4121,No context.,0.0,0.0
+nu-4122,No context.,0.0,0.0
+nu-4123,No context.,0.0,0.0
+nu-4124,No context.,0.0,0.0
+nu-4125,No context.,0.0,0.0
+nu-4126,No context.,0.0,0.0
+nu-4127,.,0.0,0.0
+nu-4128,No context.,0.0,0.0
+nu-4129,No context.,0.0,0.0
+nu-4130,.,0.0,0.0
+nu-4131,No context.,0.0,0.0
+nu-4132,.,0.0,0.0
+nu-4133,No context.,0.0,0.0
+nu-4134,No context.,0.0,0.0
+nu-4135,No context.,0.0,0.0
+nu-4136,No context.,0.0,0.0
+nu-4137,.,0.0,0.0
+nu-4138,No context.,0.0,0.0
+nu-4139,No context.,0.0,0.0
+nu-4140,No context.,0.0,0.0
+nu-4141,No context.,0.0,0.0
+nu-4142,No context.,0.0,0.0
+nu-4143,.,0.0,0.0
+nu-4144,No context.,0.0,0.0
+nu-4145,No context,0.0,0.0
+nu-4146,No context.,0.0,0.0
+nu-4147,No context.,0.0,0.0
+nu-4148,No context.,0.0,0.0
+nu-4149,.,0.0,0.0
+nu-4150,.,0.0,0.0
+nu-4151,.,0.0,0.0
+nu-4152,No context.,0.0,0.0
+nu-4153,No context.,0.0,0.0
+nu-4154,No context.,0.0,0.0
+nu-4155,No context.,0.0,0.0
+nu-4156,No context.,0.0,0.0
+nu-4157,No context.,0.0,0.0
+nu-4158,.,0.0,0.0
+nu-4159,No context.,0.0,0.0
+nu-4160,.,0.0,0.0
+nu-4161,No context.,0.0,0.0
+nu-4162,No context.,0.0,0.0
+nu-4163,.,0.0,0.0
+nu-4164,.,0.0,0.0
+nu-4165,No context.,0.0,0.0
+nu-4166,.,0.0,0.0
+nu-4167,.,0.0,0.0
+nu-4168,.,0.0,0.0
+nu-4169,No context.,0.0,0.0
+nu-4170,No context,0.0,0.0
+nu-4171,No context.,0.0,0.0
+nu-4172,No context.,0.0,0.0
+nu-4173,.,0.0,0.0
+nu-4174,No context,0.0,0.0
+nu-4175,.,0.0,0.0
+nu-4176,No context.,0.0,0.0
+nu-4177,No context.,0.0,0.0
+nu-4178,No context.,0.0,0.0
+nu-4179,No context.,0.0,0.0
+nu-4180,No context.,0.0,0.0
+nu-4181,No context.,0.0,0.0
+nu-4182,No context.,0.0,0.0
+nu-4183,No context.,0.0,0.0
+nu-4184,.,0.0,0.0
+nu-4185,No context.,0.0,0.0
+nu-4186,No context.,0.0,0.0
+nu-4187,No context.,0.0,0.0
+nu-4188,No context.,0.0,0.0
+nu-4189,.,0.0,0.0
+nu-4190,No context.,0.0,0.0
+nu-4191,No context.,0.0,0.0
+nu-4192,No context.,0.0,0.0
+nu-4193,No context.,0.0,0.0
+nu-4194,No context.,0.0,0.0
+nu-4195,No context.,0.0,0.0
+nu-4196,.,0.0,0.0
+nu-4197,.,0.0,0.0
+nu-4198,.,0.0,0.0
+nu-4199,No context.,0.0,0.0
+nu-4200,No context.,0.0,0.0
+nu-4201,No context.,0.0,0.0
+nu-4202,No context.,0.0,0.0
+nu-4203,No context.,0.0,0.0
+nu-4204,No context.,0.0,0.0
+nu-4205,No context.,0.0,0.0
+nu-4206,No context.,0.0,0.0
+nu-4207,.,0.0,0.0
+nu-4208,No context,0.0,0.0
+nu-4209,No context.,0.0,0.0
+nu-4210,.,0.0,0.0
+nu-4211,No context.,0.0,0.0
+nu-4212,No context.,0.0,0.0
+nu-4213,No context.,0.0,0.0
+nu-4214,No context.,0.0,0.0
+nu-4215,.,0.0,0.0
+nu-4216,.,0.0,0.0
+nu-4217,.,0.0,0.0
+nu-4218,No context.,0.0,0.0
+nu-4219,.,0.0,0.0
+nu-4220,.,0.0,0.0
+nu-4221,No context.,0.0,0.0
+nu-4222,No context.,0.0,0.0
+nu-4223,No context.,0.0,0.0
+nu-4224,.,0.0,0.0
+nu-4225,.,0.0,0.0
+nu-4226,.,0.0,0.0
+nu-4227,.,0.0,0.0
+nu-4228,No context.,0.0,0.0
+nu-4230,No context.,0.0,0.0
+nu-4231,No context.,0.0,0.0
+nu-4232,No context.,0.0,0.0
+nu-4233,No context.,0.0,0.0
+nu-4234,.,0.0,0.0
+nu-4235,No context.,0.0,0.0
+nu-4236,No context.,0.0,0.0
+nu-4237,No context.,0.0,0.0
+nu-4238,No context.,0.0,0.0
+nu-4239,.,0.0,0.0
+nu-4240,No context.,0.0,0.0
+nu-4241,No context.,0.0,0.0
+nu-4242,No context.,0.0,0.0
+nu-4243,.,0.0,0.0
+nu-4244,No context.,0.0,0.0
+nu-4245,No context.,0.0,0.0
+nu-4246,No context.,0.0,0.0
+nu-4247,No context.,0.0,0.0
+nu-4248,No context.,0.0,0.0
+nu-4249,No context.,0.0,0.0
+nu-4250,No context.,0.0,0.0
+nu-4251,No context.,0.0,0.0
+nu-4252,No context.,0.0,0.0
+nu-4253,No context.,0.0,0.0
+nu-4254,.,0.0,0.0
+nu-4255,No context.,0.0,0.0
+nu-4256,No context,0.0,0.0
+nu-4257,No context.,0.0,0.0
+nu-4258,No context.,0.0,0.0
+nu-4259,No context.,0.0,0.0
+nu-4260,No context.,0.0,0.0
+nu-4261,No context.,0.0,0.0
+nu-4262,No context.,0.0,0.0
+nu-4263,No context.,0.0,0.0
+nu-4264,.,0.0,0.0
+nu-4265,No context.,0.0,0.0
+nu-4266,No context.,0.0,0.0
+nu-4267,No context.,0.0,0.0
+nu-4268,No context.,0.0,0.0
+nu-4269,No context.,0.0,0.0
+nu-4270,No context.,0.0,0.0
+nu-4271,No context.,0.0,0.0
+nu-4272,No context.,0.0,0.0
+nu-4273,No context.,0.0,0.0
+nu-4274,No context.,0.0,0.0
+nu-4275,No context.,0.0,0.0
+nu-4276,No context.,0.0,0.0
+nu-4277,No context.,0.0,0.0
+nu-4278,No context.,0.0,0.0
+nu-4279,.,0.0,0.0
+nu-4280,.,0.0,0.0
+nu-4281,No context.,0.0,0.0
+nu-4282,No context.,0.0,0.0
+nu-4283,No context.,0.0,0.0
+nu-4284,No context.,0.0,0.0
+nu-4285,No context.,0.0,0.0
+nu-4286,No context.,0.0,0.0
+nu-4287,.,0.0,0.0
+nu-4288,No context.,0.0,0.0
+nu-4289,No context.,0.0,0.0
+nu-4290,No context,0.0,0.0
+nu-4291,No context,0.0,0.0
+nu-4292,No context.,0.0,0.0
+nu-4293,No context.,0.0,0.0
+nu-4294,No context.,0.0,0.0
+nu-4295,No context.,0.0,0.0
+nu-4296,No context.,0.0,0.0
+nu-4297,No context.,0.0,0.0
+nu-4298,.,0.0,0.0
+nu-4299,.,0.0,0.0
+nu-4300,No context.,0.0,0.0
+nu-4301,No context.,0.0,0.0
+nu-4303,No context.,0.0,0.0
+nu-4304,No context,0.0,0.0
+nu-4305,.,0.0,0.0
+nu-4306,No context.,0.0,0.0
+nu-4307,No context.,0.0,0.0
+nu-4308,No context.,0.0,0.0
+nu-4309,.,0.0,0.0
+nu-4310,No context.,0.0,0.0
+nu-4311,No context.,0.0,0.0
+nu-4312,No context.,0.0,0.0
+nu-4313,No context.,0.0,0.0
+nu-4314,No context.,0.0,0.0
+nu-4315,No context.,0.0,0.0
+nu-4316,No context.,0.0,0.0
+nu-4317,.,0.0,0.0
+nu-4318,.,0.0,0.0
+nu-4319,No context.,0.0,0.0
+nu-4320,No context.,0.0,0.0
+nu-4321,.,0.0,0.0
+nu-4322,No context.,0.0,0.0
+nu-4323,No context.,0.0,0.0
+nu-4324,.,0.0,0.0
+nu-4325,No context,0.0,0.0
+nu-4326,No context.,0.0,0.0
+nu-4327,No context.,0.0,0.0
+nu-4328,No context.,0.0,0.0
+nu-4329,No context.,0.0,0.0
+nu-4330,No context.,0.0,0.0
+nu-4331,No context.,0.0,0.0
+nu-4332,No context.,0.0,0.0
+nu-4333,No context.,0.0,0.0
+nu-4334,No context.,0.0,0.0
+nu-4335,No context.,0.0,0.0
+nu-4336,.,0.0,0.0
+nu-4337,No context.,0.0,0.0
+nu-4338,No context.,66.66666666666666,0.0
+nu-4339,No context.,0.0,0.0
+nu-4340,No context.,0.0,0.0
+nu-4341,No context.,0.0,0.0
+nu-4342,No context.,0.0,0.0
+nu-4343,No context.,0.0,0.0
